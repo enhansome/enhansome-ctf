@@ -57,7 +57,7 @@
             "last_commit": "2026-07-31T16:23:39Z",
             "owner": "cliffe",
             "repo": "SecGen",
-            "stars": 2789
+            "stars": 2788
           }
         },
         {
@@ -124,7 +124,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T14:12:43Z",
+            "last_commit": "2026-08-17T05:41:25Z",
             "owner": "echoCTF",
             "repo": "echoCTF.RED",
             "stars": 149
@@ -233,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T17:54:27Z",
+            "last_commit": "2026-08-17T01:29:37Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38818
+            "stars": 38822
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13381
+            "stars": 13380
           }
         }
       ],
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19806
+            "stars": 19811
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-12T02:01:14Z",
             "owner": "RsaCtfTool",
             "repo": "RsaCtfTool",
-            "stars": 7073
+            "stars": 7074
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-20T20:41:57Z",
             "owner": "ius",
             "repo": "rsatool",
-            "stars": 1650
+            "stars": 1652
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13500
+            "stars": 13506
           }
         },
         {
@@ -439,10 +439,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:16:32Z",
+            "last_commit": "2026-08-16T19:48:06Z",
             "owner": "Gallopsled",
             "repo": "pwntools",
-            "stars": 13645
+            "stars": 13646
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-06-24T05:49:04Z",
             "owner": "JonathanSalwan",
             "repo": "ROPgadget",
-            "stars": 4465
+            "stars": 4466
           }
         },
         {
@@ -481,7 +481,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T05:59:02Z",
+            "last_commit": "2026-08-16T23:20:15Z",
             "owner": "david942j",
             "repo": "one_gadget",
             "stars": 2345
@@ -636,7 +636,7 @@
             "last_commit": "2026-04-23T20:34:38Z",
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25933
+            "stars": 25932
           }
         },
         {
@@ -650,7 +650,7 @@
             "last_commit": "2026-06-27T10:01:13Z",
             "owner": "htrgouvea",
             "repo": "nipe",
-            "stars": 2382
+            "stars": 2385
           }
         }
       ],
@@ -670,7 +670,7 @@
             "last_commit": "2026-08-05T19:19:01Z",
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50086
+            "stars": 50101
           }
         },
         {
@@ -681,10 +681,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T17:11:25Z",
+            "last_commit": "2026-08-17T13:46:46Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 24582
+            "stars": 24587
           }
         },
         {
@@ -709,7 +709,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T16:00:28Z",
+            "last_commit": "2026-08-17T17:15:46Z",
             "owner": "Z3Prover",
             "repo": "z3",
             "stars": 12563
@@ -723,10 +723,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:04:10Z",
+            "last_commit": "2026-08-17T04:37:48Z",
             "owner": "pwndbg",
             "repo": "pwndbg",
-            "stars": 10767
+            "stars": 10769
           }
         },
         {
@@ -740,7 +740,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9319
+            "stars": 9320
           }
         },
         {
@@ -751,10 +751,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:11:04Z",
+            "last_commit": "2026-08-17T16:47:38Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9014
+            "stars": 9017
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-06-16T15:24:21Z",
             "owner": "hugsy",
             "repo": "gef",
-            "stars": 8314
+            "stars": 8318
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2026-08-13T17:59:02Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6196
+            "stars": 6195
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2026-07-28T13:39:36Z",
             "owner": "JonathanSalwan",
             "repo": "Triton",
-            "stars": 4267
+            "stars": 4265
           }
         },
         {
@@ -838,7 +838,7 @@
             "last_commit": "2026-08-15T09:09:11Z",
             "owner": "korcankaraokcu",
             "repo": "PINCE",
-            "stars": 3059
+            "stars": 3057
           }
         },
         {
@@ -998,7 +998,7 @@
             "last_commit": "2026-01-28T08:51:42Z",
             "owner": "zed-0xff",
             "repo": "zsteg",
-            "stars": 1608
+            "stars": 1609
           }
         },
         {
@@ -1012,7 +1012,7 @@
             "last_commit": "2020-12-25T23:00:55Z",
             "owner": "Paradoxis",
             "repo": "StegCracker",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -1043,10 +1043,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:17:32Z",
+            "last_commit": "2026-08-17T14:52:04Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38201
+            "stars": 38203
           }
         },
         {
@@ -1057,7 +1057,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:13:51Z",
+            "last_commit": "2026-08-17T08:39:29Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5816
@@ -1088,7 +1088,7 @@
             "last_commit": "2026-04-21T21:23:15Z",
             "owner": "evyatarmeged",
             "repo": "Raccoon",
-            "stars": 3992
+            "stars": 3994
           }
         }
       ],
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-08-12T08:57:13Z",
             "owner": "zardus",
             "repo": "ctf-tools",
-            "stars": 9496
+            "stars": 9495
           }
         },
         {
@@ -1307,7 +1307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:34:07.966Z",
+    "last_updated": "2026-08-17T17:45:36.389Z",
     "original_repository": "apsdehal/awesome-ctf",
     "original_repository_sha": "eb504b242be3918cbd46e1a5a6274671f477071f",
     "enhanced_repository": "enhansome/enhansome-ctf",
