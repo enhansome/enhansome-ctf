@@ -1,1314 +1,1408 @@
 {
   "items": [
     {
-      "description": "Please take a quick look at the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "If you know a tool that isn't present here, feel free to open a pull request."
-    },
-    {
-      "description": "It takes time to build up collection of tools used in CTF and remember them all. This repo helps to keep all these scattered tools at one place.",
-      "items": [],
-      "title": "Why?"
-    },
-    {
-      "description": "Projects that can be used to host a CTF",
+      "description": "Tools used for creating CTF challenges",
       "items": [
         {
-          "node_type": "item",
-          "title": "CTFd",
-          "description": "Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:45:23Z",
-            "owner": "CTFd",
-            "repo": "CTFd",
-            "stars": 6792
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CTFd",
+              "description": "Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28681142,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:36:44Z",
+                "owner": "CTFd",
+                "repo": "CTFd",
+                "stars": 6793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FBCTF",
+              "description": "Platform to host Capture the Flag competitions from Facebook.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53877810,
+                "language": "Hack",
+                "last_commit": "2023-12-05T12:29:38Z",
+                "owner": "facebookarchive",
+                "repo": "fbctf",
+                "stars": 6549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SecGen",
+              "description": "Security Scenario Generator. Creates randomly vulnerable virtual machines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30029712,
+                "language": "Python",
+                "last_commit": "2026-07-31T16:23:39Z",
+                "owner": "cliffe",
+                "repo": "SecGen",
+                "stars": 2788
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RootTheBox",
+              "description": "A Game of Hackers (CTF Scoreboard & Game Manager).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3685111,
+                "language": "Python",
+                "last_commit": "2026-04-24T08:53:05Z",
+                "owner": "moloch--",
+                "repo": "RootTheBox",
+                "stars": 1127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mellivora",
+              "description": "A CTF engine written in PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11420532,
+                "language": "PHP",
+                "last_commit": "2023-12-21T23:27:05Z",
+                "owner": "Nakiami",
+                "repo": "mellivora",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PicoCTF",
+              "description": "The platform used to run picoCTF. A great framework to host any CTF.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53499652,
+                "language": "Python",
+                "last_commit": "2024-05-13T17:56:47Z",
+                "owner": "picoCTF",
+                "repo": "picoCTF",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haaukins",
+              "description": "A Highly Accessible and Automated Virtualization Platform for Security Education.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142140375,
+                "language": "Go",
+                "last_commit": "2026-08-06T11:15:05Z",
+                "owner": "aau-network-security",
+                "repo": "haaukins",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "echoCTF.RED",
+              "description": "Develop, deploy and maintain your own CTF infrastructure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218938061,
+                "language": "PHP",
+                "last_commit": "2026-08-17T05:41:25Z",
+                "owner": "echoCTF",
+                "repo": "echoCTF.RED",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NightShade",
+              "description": "A simple security CTF framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12523931,
+                "language": "JavaScript",
+                "last_commit": "2017-05-28T16:37:13Z",
+                "owner": "akama",
+                "repo": "NightShade",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyChallFactory",
+              "description": "Small framework to create/manage/package jeopardy CTF challenges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78870422,
+                "language": "Python",
+                "last_commit": "2025-08-19T06:12:45Z",
+                "owner": "koromodako",
+                "repo": "mkctf",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenCTF",
+              "description": "CTF in a box. Minimal setup required.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46539973,
+                "language": "Python",
+                "last_commit": "2023-02-16T07:11:08Z",
+                "owner": "easyctf",
+                "repo": "librectf",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HackTheArch",
+              "description": "CTF scoring platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39899904,
+                "language": "Ruby",
+                "last_commit": "2023-03-08T23:44:49Z",
+                "owner": "mcpa-stlouis",
+                "repo": "hack-the-arch",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotherFucking-CTF",
+              "description": "Badass lightweight plaform to host CTFs. No JS involved.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188899038,
+                "language": "Python",
+                "last_commit": "2019-05-29T14:08:57Z",
+                "owner": "andreafioraldi",
+                "repo": "motherfucking-ctf",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scorebot",
+              "description": "Platform for CTFs by Legitbs (Defcon).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24823873,
+                "language": "Python",
+                "last_commit": "2017-09-23T10:53:27Z",
+                "owner": "legitbs",
+                "repo": "scorebot",
+                "stars": 51
+              }
+            }
+          ],
+          "description": "Projects that can be used to host a CTF",
+          "node_type": "group",
+          "title": "Platforms"
         },
         {
-          "node_type": "item",
-          "title": "FBCTF",
-          "description": "Platform to host Capture the Flag competitions from Facebook.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Hack",
-            "last_commit": "2023-12-05T12:29:38Z",
-            "owner": "facebookarchive",
-            "repo": "fbctf",
-            "stars": 6550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SecGen",
-          "description": "Security Scenario Generator. Creates randomly vulnerable virtual machines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T16:23:39Z",
-            "owner": "cliffe",
-            "repo": "SecGen",
-            "stars": 2788
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RootTheBox",
-          "description": "A Game of Hackers (CTF Scoreboard & Game Manager).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-24T08:53:05Z",
-            "owner": "moloch--",
-            "repo": "RootTheBox",
-            "stars": 1127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mellivora",
-          "description": "A CTF engine written in PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-12-21T23:27:05Z",
-            "owner": "Nakiami",
-            "repo": "mellivora",
-            "stars": 451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PicoCTF",
-          "description": "The platform used to run picoCTF. A great framework to host any CTF.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-05-13T17:56:47Z",
-            "owner": "picoCTF",
-            "repo": "picoCTF",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haaukins",
-          "description": "A Highly Accessible and Automated Virtualization Platform for Security Education.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T11:15:05Z",
-            "owner": "aau-network-security",
-            "repo": "haaukins",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "echoCTF.RED",
-          "description": "Develop, deploy and maintain your own CTF infrastructure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-17T05:41:25Z",
-            "owner": "echoCTF",
-            "repo": "echoCTF.RED",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NightShade",
-          "description": "A simple security CTF framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-05-28T16:37:13Z",
-            "owner": "akama",
-            "repo": "NightShade",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyChallFactory",
-          "description": "Small framework to create/manage/package jeopardy CTF challenges.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-19T06:12:45Z",
-            "owner": "koromodako",
-            "repo": "mkctf",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenCTF",
-          "description": "CTF in a box. Minimal setup required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-16T07:11:08Z",
-            "owner": "easyctf",
-            "repo": "librectf",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HackTheArch",
-          "description": "CTF scoring platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-03-08T23:44:49Z",
-            "owner": "mcpa-stlouis",
-            "repo": "hack-the-arch",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MotherFucking-CTF",
-          "description": "Badass lightweight plaform to host CTFs. No JS involved.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-29T14:08:57Z",
-            "owner": "andreafioraldi",
-            "repo": "motherfucking-ctf",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scorebot",
-          "description": "Platform for CTFs by Legitbs (Defcon).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-09-23T10:53:27Z",
-            "owner": "legitbs",
-            "repo": "scorebot",
-            "stars": 51
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metasploit JavaScript Obfuscator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2293158,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T15:21:12Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uglify",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5569059,
+                "language": "JavaScript",
+                "last_commit": "2024-11-22T08:11:38Z",
+                "owner": "mishoo",
+                "repo": "UglifyJS",
+                "stars": 13380
+              }
+            }
+          ],
+          "description": "Tools used for creating Web challenges\nJavaScript Obfustcators",
+          "node_type": "group",
+          "title": "Web"
         }
       ],
-      "title": "Platforms"
+      "title": "Create"
     },
     {
-      "description": "Tools used to create stego challenges\nCheck solve section for steganography.",
-      "items": [],
-      "title": "Steganography"
-    },
-    {
-      "description": "Tools used for creating Web challenges\nJavaScript Obfustcators",
+      "description": "Tools used for solving CTF challenges",
       "items": [
         {
-          "node_type": "item",
-          "title": "Metasploit JavaScript Obfuscator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T15:21:12Z",
-            "owner": "rapid7",
-            "repo": "metasploit-framework",
-            "stars": 38828
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bettercap",
+              "description": "Framework to perform MITM (Man in the Middle) attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116576783,
+                "language": "Go",
+                "last_commit": "2026-08-13T13:47:49Z",
+                "owner": "bettercap",
+                "repo": "bettercap",
+                "stars": 19817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yersinia",
+              "description": "Attack various protocols on layer 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10085972,
+                "language": "C",
+                "last_commit": "2023-09-15T16:01:47Z",
+                "owner": "tomac",
+                "repo": "yersinia",
+                "stars": 863
+              }
+            }
+          ],
+          "description": "Tools used for performing various kinds of attacks",
+          "node_type": "group",
+          "title": "Attacks"
         },
         {
-          "node_type": "item",
-          "title": "Uglify",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-22T08:11:38Z",
-            "owner": "mishoo",
-            "repo": "UglifyJS",
-            "stars": 13380
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RSACTFTool",
+              "description": "A tool for recovering RSA private key with various attack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31820613,
+                "language": "Python",
+                "last_commit": "2026-08-12T02:01:14Z",
+                "owner": "RsaCtfTool",
+                "repo": "RsaCtfTool",
+                "stars": 7077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSATool",
+              "description": "Generate private key with knowledge of p and q.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3088326,
+                "language": "Python",
+                "last_commit": "2026-07-20T20:41:57Z",
+                "owner": "ius",
+                "repo": "rsatool",
+                "stars": 1652
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XORTool",
+              "description": "A tool to analyze multi-byte xor cipher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1267824,
+                "language": "Python",
+                "last_commit": "2025-05-21T12:05:24Z",
+                "owner": "hellman",
+                "repo": "xortool",
+                "stars": 1485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hash Extender",
+              "description": "A utility tool for performing hash length extension attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5556050,
+                "language": "C",
+                "last_commit": "2025-01-27T18:44:38Z",
+                "owner": "iagox86",
+                "repo": "hash_extender",
+                "stars": 1208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FeatherDuster",
+              "description": "An automated, modular cryptanalysis tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57991345,
+                "language": "Python",
+                "last_commit": "2021-12-02T16:59:31Z",
+                "owner": "nccgroup",
+                "repo": "featherduster",
+                "stars": 1137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "padding-oracle-attacker",
+              "description": "A CLI tool to execute padding oracle attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184933759,
+                "language": "TypeScript",
+                "last_commit": "2023-02-03T04:52:47Z",
+                "owner": "KishanBagaria",
+                "repo": "padding-oracle-attacker",
+                "stars": 216
+              }
+            }
+          ],
+          "description": "Tools used for solving Crypto challenges",
+          "node_type": "group",
+          "title": "Crypto"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "John The Jumbo",
+              "description": "Community enhanced version of John the Ripper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2997204,
+                "language": "C",
+                "last_commit": "2026-08-01T22:19:56Z",
+                "owner": "openwall",
+                "repo": "john",
+                "stars": 13512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Patator",
+              "description": "Patator is a multi-purpose brute-forcer, with a modular design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23297444,
+                "language": "Python",
+                "last_commit": "2025-05-20T00:07:33Z",
+                "owner": "lanjelot",
+                "repo": "patator",
+                "stars": 3920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nozzlr",
+              "description": "Nozzlr is a bruteforce framework, trully modular and script-friendly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84258608,
+                "language": "Python",
+                "last_commit": "2023-01-11T21:59:41Z",
+                "owner": "intrd",
+                "repo": "nozzlr",
+                "stars": 65
+              }
+            }
+          ],
+          "description": "Tools used for various kind of bruteforcing (passwords etc.)",
+          "node_type": "group",
+          "title": "Bruteforcers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pwntools",
+              "description": "CTF Framework for writing exploits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9750233,
+                "language": "Python",
+                "last_commit": "2026-08-16T19:48:06Z",
+                "owner": "Gallopsled",
+                "repo": "pwntools",
+                "stars": 13644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ROP Gadget",
+              "description": "Framework for ROP exploitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2234715,
+                "language": "Python",
+                "last_commit": "2026-06-24T05:49:04Z",
+                "owner": "JonathanSalwan",
+                "repo": "ROPgadget",
+                "stars": 4466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qira",
+              "description": "QEMU Interactive Runtime Analyser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23707362,
+                "language": "C",
+                "last_commit": "2022-07-02T21:00:16Z",
+                "owner": "geohot",
+                "repo": "qira",
+                "stars": 4069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "one_gadget",
+              "description": "A tool to find the one gadget call.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81182710,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T23:39:15Z",
+                "owner": "david942j",
+                "repo": "one_gadget",
+                "stars": 2345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DLLInjector",
+              "description": "Inject dlls in processes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7038350,
+                "language": "C++",
+                "last_commit": "2013-01-07T19:35:58Z",
+                "owner": "OpenSecurityResearch",
+                "repo": "dllinjector",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V0lt",
+              "description": "Security CTF Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39846418,
+                "language": "Python",
+                "last_commit": "2018-01-22T00:18:00Z",
+                "owner": "P1kachu",
+                "repo": "v0lt",
+                "stars": 370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libformatstr",
+              "description": "Simplify format string exploitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3213035,
+                "language": "Python",
+                "last_commit": "2021-11-02T09:15:14Z",
+                "owner": "hellman",
+                "repo": "libformatstr",
+                "stars": 346
+              }
+            }
+          ],
+          "description": "Tools used for solving Exploits challenges",
+          "node_type": "group",
+          "title": "Exploits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volatility",
+              "description": "To investigate memory dumps.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19114225,
+                "language": "Python",
+                "last_commit": "2025-05-16T13:40:55Z",
+                "owner": "volatilityfoundation",
+                "repo": "volatility",
+                "stars": 8059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fibratus",
+              "description": "Tool for exploration and tracing of the Windows kernel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54714794,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:41:02Z",
+                "owner": "rabbitstack",
+                "repo": "fibratus",
+                "stars": 2528
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DVCS Ripper",
+              "description": "Rips web accessible (distributed) version control systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6347029,
+                "language": "Perl",
+                "last_commit": "2024-07-19T12:49:07Z",
+                "owner": "kost",
+                "repo": "dvcs-ripper",
+                "stars": 1781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "USBRip",
+              "description": "Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 126223631,
+                "language": "Python",
+                "last_commit": "2022-10-03T15:56:42Z",
+                "owner": "snovvcrash",
+                "repo": "usbrip",
+                "stars": 1182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Creddump",
+              "description": "Dump windows credentials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33460801,
+                "language": "Python",
+                "last_commit": "2019-05-08T14:26:25Z",
+                "owner": "moyix",
+                "repo": "creddump",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shellbags",
+              "description": "Investigate NT_USER.dat files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2832673,
+                "language": "Python",
+                "last_commit": "2023-01-31T17:43:54Z",
+                "owner": "williballenthin",
+                "repo": "shellbags",
+                "stars": 161
+              }
+            }
+          ],
+          "description": "Tools used for solving Forensics challenges\nRegistry Viewers",
+          "node_type": "group",
+          "title": "Forensics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Masscan",
+              "description": "Mass IP port scanner, TCP port scanner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11715753,
+                "language": "C",
+                "last_commit": "2026-04-23T20:34:38Z",
+                "owner": "robertdavidgraham",
+                "repo": "masscan",
+                "stars": 25936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nipe",
+              "description": "Nipe is a script to make Tor Network your default gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42069173,
+                "language": "Perl",
+                "last_commit": "2026-06-27T10:01:13Z",
+                "owner": "htrgouvea",
+                "repo": "nipe",
+                "stars": 2385
+              }
+            }
+          ],
+          "description": "Tools used for solving Networking challenges",
+          "node_type": "group",
+          "title": "Networking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jadx",
+              "description": "Decompile Android files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8859474,
+                "language": "Java",
+                "last_commit": "2026-08-05T19:19:01Z",
+                "owner": "skylot",
+                "repo": "jadx",
+                "stars": 50128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "radare2",
+              "description": "A portable reversing framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4869294,
+                "language": "C",
+                "last_commit": "2026-08-19T11:03:59Z",
+                "owner": "radareorg",
+                "repo": "radare2",
+                "stars": 24597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BinWalk",
+              "description": "Analyze, reverse engineer, and extract firmware images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14434734,
+                "language": "Rust",
+                "last_commit": "2026-08-11T15:27:34Z",
+                "owner": "ReFirmLabs",
+                "repo": "binwalk",
+                "stars": 14241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Z3",
+              "description": "A theorem prover from Microsoft Research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32944298,
+                "language": "C++",
+                "last_commit": "2026-08-19T03:26:18Z",
+                "owner": "Z3Prover",
+                "repo": "z3",
+                "stars": 12567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pwndbg",
+              "description": "A GDB plugin that provides a suite of utilities to hack around GDB easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31181767,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:42:04Z",
+                "owner": "pwndbg",
+                "repo": "pwndbg",
+                "stars": 10776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Objection",
+              "description": "Runtime Mobile Exploration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95770373,
+                "language": "Python",
+                "last_commit": "2026-07-23T13:40:22Z",
+                "owner": "sensepost",
+                "repo": "objection",
+                "stars": 9327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Angr",
+              "description": "platform-agnostic binary analysis framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40328394,
+                "language": "Python",
+                "last_commit": "2026-08-19T10:39:45Z",
+                "owner": "angr",
+                "repo": "angr",
+                "stars": 9022
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GEF",
+              "description": "GDB plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32955140,
+                "language": "Python",
+                "last_commit": "2026-06-16T15:24:21Z",
+                "owner": "hugsy",
+                "repo": "gef",
+                "stars": 8320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Androguard",
+              "description": "Reverse engineer Android applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23953531,
+                "language": "Python",
+                "last_commit": "2026-08-13T17:59:02Z",
+                "owner": "androguard",
+                "repo": "androguard",
+                "stars": 6199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PEDA",
+              "description": "GDB plugin (only python2.7).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5282021,
+                "language": "Python",
+                "last_commit": "2024-07-29T08:32:28Z",
+                "owner": "longld",
+                "repo": "peda",
+                "stars": 6147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Triton",
+              "description": "Dynamic Binary Analysis (DBA) framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29811166,
+                "language": "C++",
+                "last_commit": "2026-07-28T13:39:36Z",
+                "owner": "JonathanSalwan",
+                "repo": "Triton",
+                "stars": 4268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plasma",
+              "description": "An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31923165,
+                "language": "Python",
+                "last_commit": "2021-08-31T16:57:42Z",
+                "owner": "plasma-disassembler",
+                "repo": "plasma",
+                "stars": 3072
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PINCE",
+              "description": "GDB front-end/reverse engineering tool, focused on game-hacking and automation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52111486,
+                "language": "Python",
+                "last_commit": "2026-08-15T09:09:11Z",
+                "owner": "korcankaraokcu",
+                "repo": "PINCE",
+                "stars": 3063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Krakatau",
+              "description": "Java decompiler and disassembler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6304196,
+                "language": "Rust",
+                "last_commit": "2026-04-07T03:40:10Z",
+                "owner": "Storyyeller",
+                "repo": "Krakatau",
+                "stars": 2243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Barf",
+              "description": "Binary Analysis and Reverse engineering Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25641440,
+                "language": "Python",
+                "last_commit": "2019-11-24T16:06:27Z",
+                "owner": "programa-stic",
+                "repo": "barf-project",
+                "stars": 1451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cwe_checker",
+              "description": "cwe_checker finds vulnerable patterns in binary executables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152072866,
+                "language": "Rust",
+                "last_commit": "2026-08-18T10:59:28Z",
+                "owner": "fkie-cad",
+                "repo": "cwe_checker",
+                "stars": 1349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "demovfuscator",
+              "description": "A work-in-progress deobfuscator for movfuscated binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61482236,
+                "language": "C++",
+                "last_commit": "2025-05-04T09:24:22Z",
+                "owner": "leetonidas",
+                "repo": "demovfuscator",
+                "stars": 763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apk2Gold",
+              "description": "Yet another Android decompiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7741034,
+                "language": "Shell",
+                "last_commit": "2024-03-05T05:38:51Z",
+                "owner": "lxdvs",
+                "repo": "apk2gold",
+                "stars": 699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PinCTF",
+              "description": "A tool which uses intel pin for Side Channel Analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117361066,
+                "language": "Python",
+                "last_commit": "2020-04-12T20:20:00Z",
+                "owner": "ChrisTheCoolHut",
+                "repo": "PinCTF",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uncompyle",
+              "description": "Decompile Python 2.7 binaries (.pyc).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 943700,
+                "language": "Python",
+                "last_commit": "2017-06-02T09:51:24Z",
+                "owner": "gstarnberger",
+                "repo": "uncompyle",
+                "stars": 424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boomerang",
+              "description": "Decompile x86/SPARC/PowerPC/ST-20 binaries to C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7819729,
+                "language": "C++",
+                "last_commit": "2020-12-28T17:39:19Z",
+                "owner": "BoomerangDecompiler",
+                "repo": "boomerang",
+                "stars": 407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ctf_import",
+              "description": "run basic functions from stripped binaries cross platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76296765,
+                "language": "C",
+                "last_commit": "2016-12-13T14:15:13Z",
+                "owner": "sciencemanx",
+                "repo": "ctf_import",
+                "stars": 114
+              }
+            }
+          ],
+          "description": "Tools used for solving Reversing challenges\nJavaScript Deobfuscators\nSWF Analyzers",
+          "node_type": "group",
+          "title": "Reversing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SmartDeblur",
+              "description": "Used to deblur and fix defocused images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4799391,
+                "language": "C++",
+                "last_commit": "2019-04-02T05:48:49Z",
+                "owner": "Y-Vladimir",
+                "repo": "SmartDeblur",
+                "stars": 2412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zsteg",
+              "description": "PNG/BMP analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7473367,
+                "language": "Ruby",
+                "last_commit": "2026-01-28T08:51:42Z",
+                "owner": "zed-0xff",
+                "repo": "zsteg",
+                "stars": 1609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StegCracker",
+              "description": "Steganography brute-force utility to uncover hidden data inside files.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 107186881,
+                "language": "Python",
+                "last_commit": "2020-12-25T23:00:55Z",
+                "owner": "Paradoxis",
+                "repo": "StegCracker",
+                "stars": 603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stegextract",
+              "description": "Detect hidden files and text in images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128096556,
+                "language": "Shell",
+                "last_commit": "2023-05-21T08:33:26Z",
+                "owner": "evyatarmeged",
+                "repo": "stegextract",
+                "stars": 133
+              }
+            }
+          ],
+          "description": "Tools used for solving Steganography challenges",
+          "node_type": "group",
+          "title": "Steganography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLMap",
+              "description": "Automatic SQL injection and database takeover tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4793392,
+                "language": "Python",
+                "last_commit": "2026-08-18T12:50:42Z",
+                "owner": "sqlmapproject",
+                "repo": "sqlmap",
+                "stars": 38223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Commix",
+              "description": "Automated All-in-One OS Command Injection and Exploitation Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32572504,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:51:56Z",
+                "owner": "commixproject",
+                "repo": "commix",
+                "stars": 5821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "W3af",
+              "description": "Web Application Attack and Audit Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2304783,
+                "language": "Python",
+                "last_commit": "2023-02-22T06:05:59Z",
+                "owner": "andresriancho",
+                "repo": "w3af",
+                "stars": 4902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raccoon",
+              "description": "A high performance offensive security tool for reconnaissance and vulnerability scanning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133257682,
+                "language": "Python",
+                "last_commit": "2026-04-21T21:23:15Z",
+                "owner": "evyatarmeged",
+                "repo": "Raccoon",
+                "stars": 3994
+              }
+            }
+          ],
+          "description": "Tools used for solving Web challenges",
+          "node_type": "group",
+          "title": "Web"
         }
       ],
-      "title": "Web"
+      "title": "Solve"
     },
     {
-      "description": "Tools used for performing various kinds of attacks",
+      "description": "Where to discover about CTF",
       "items": [
         {
-          "node_type": "item",
-          "title": "Bettercap",
-          "description": "Framework to perform MITM (Man in the Middle) attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T13:47:49Z",
-            "owner": "bettercap",
-            "repo": "bettercap",
-            "stars": 19812
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CTF Tools",
+              "description": "Collection of setup scripts to install various security research tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35215245,
+                "language": "Nix",
+                "last_commit": "2026-08-12T08:57:13Z",
+                "owner": "zardus",
+                "repo": "ctf-tools",
+                "stars": 9495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LazyKali",
+              "description": "A 2016 refresh of LazyKali which simplifies install of tools and configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66726332,
+                "language": "Shell",
+                "last_commit": "2016-09-04T19:06:41Z",
+                "owner": "jlevitsk",
+                "repo": "lazykali",
+                "stars": 50
+              }
+            }
+          ],
+          "description": "Collections of installer scripts, useful tools",
+          "node_type": "group",
+          "title": "Starter Packs"
         },
         {
-          "node_type": "item",
-          "title": "Yersinia",
-          "description": "Attack various protocols on layer 2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-09-15T16:01:47Z",
-            "owner": "tomac",
-            "repo": "yersinia",
-            "stars": 863
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ROP Wargames",
+              "description": "ROP Wargames.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30856141,
+                "language": "CSS",
+                "last_commit": "2017-09-11T12:46:45Z",
+                "owner": "xelenonz",
+                "repo": "game",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gracker",
+              "description": "Binary challenges having a slow learning curve, and write-ups for each level.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2524532,
+                "language": "Groovy",
+                "last_commit": "2011-11-16T22:16:23Z",
+                "owner": "Samuirai",
+                "repo": "gracker",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "Always online CTFs\nSelf-hosted CTFs",
+          "node_type": "group",
+          "title": "Wargames"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ISIS Lab",
+              "description": "CTF Wiki by Isis lab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8243961,
+                "language": null,
+                "last_commit": "2013-06-28T23:06:07Z",
+                "owner": "osirislab",
+                "repo": "Project-Ideas",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenToAll",
+              "description": "CTF tips by OTA CTF team members.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147248273,
+                "language": null,
+                "last_commit": "2019-10-05T20:41:51Z",
+                "owner": "OpenToAllCTF",
+                "repo": "Tips",
+                "stars": 153
+              }
+            }
+          ],
+          "description": "Various Wikis available for learning about CTFs",
+          "node_type": "group",
+          "title": "Wikis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pwntools writeups",
+              "description": "A collection of CTF write-ups all using pwntools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22632144,
+                "language": "Python",
+                "last_commit": "2016-10-05T22:52:17Z",
+                "owner": "Gallopsled",
+                "repo": "pwntools-write-ups",
+                "stars": 526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HackThisSite",
+              "description": "CTF write-ups repo maintained by HackThisSite team.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54710810,
+                "language": "Python",
+                "last_commit": "2021-05-21T02:38:05Z",
+                "owner": "HackThisSite",
+                "repo": "CTF-Writeups",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smoke Leet Everyday",
+              "description": "CTF write-ups repo maintained by SmokeLeetEveryday team.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32361215,
+                "language": "Python",
+                "last_commit": "2017-10-08T17:00:07Z",
+                "owner": "smokeleeteveryday",
+                "repo": "CTF_WRITEUPS",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mzfr",
+              "description": "CTF competition write-ups by mzfr",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152884501,
+                "language": "Python",
+                "last_commit": "2022-07-13T03:18:47Z",
+                "owner": "mzfr",
+                "repo": "ctf-writeups",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0e85dc6eaf",
+              "description": "Write-ups for CTF challenges by 0e85dc6eaf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138573380,
+                "language": "C",
+                "last_commit": "2020-02-25T22:46:42Z",
+                "owner": "0e85dc6eaf",
+                "repo": "CTF-Writeups",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CTFTime Scrapper",
+              "description": "Scraps all writeup from CTF Time and organize which to read first.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71215156,
+                "language": "Python",
+                "last_commit": "2017-04-15T14:50:00Z",
+                "owner": "abdilahrf",
+                "repo": "CTFWriteupScrapper",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SababaSec",
+              "description": "A collection of CTF write-ups by the SababaSec team",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211388480,
+                "language": "Python",
+                "last_commit": "2026-04-17T11:16:32Z",
+                "owner": "SababaSec",
+                "repo": "ctf-writeups",
+                "stars": 23
+              }
+            }
+          ],
+          "description": "Collections of CTF write-ups",
+          "node_type": "group",
+          "title": "Writeups Collections"
         }
       ],
-      "title": "Attacks"
-    },
-    {
-      "description": "Tools used for solving Crypto challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RSACTFTool",
-          "description": "A tool for recovering RSA private key with various attack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T02:01:14Z",
-            "owner": "RsaCtfTool",
-            "repo": "RsaCtfTool",
-            "stars": 7076
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RSATool",
-          "description": "Generate private key with knowledge of p and q.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T20:41:57Z",
-            "owner": "ius",
-            "repo": "rsatool",
-            "stars": 1652
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XORTool",
-          "description": "A tool to analyze multi-byte xor cipher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-21T12:05:24Z",
-            "owner": "hellman",
-            "repo": "xortool",
-            "stars": 1485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hash Extender",
-          "description": "A utility tool for performing hash length extension attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-01-27T18:44:38Z",
-            "owner": "iagox86",
-            "repo": "hash_extender",
-            "stars": 1208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FeatherDuster",
-          "description": "An automated, modular cryptanalysis tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-02T16:59:31Z",
-            "owner": "nccgroup",
-            "repo": "featherduster",
-            "stars": 1137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "padding-oracle-attacker",
-          "description": "A CLI tool to execute padding oracle attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-03T04:52:47Z",
-            "owner": "KishanBagaria",
-            "repo": "padding-oracle-attacker",
-            "stars": 216
-          }
-        }
-      ],
-      "title": "Crypto"
-    },
-    {
-      "description": "Tools used for various kind of bruteforcing (passwords etc.)",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "John The Jumbo",
-          "description": "Community enhanced version of John the Ripper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-01T22:19:56Z",
-            "owner": "openwall",
-            "repo": "john",
-            "stars": 13508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Patator",
-          "description": "Patator is a multi-purpose brute-forcer, with a modular design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-20T00:07:33Z",
-            "owner": "lanjelot",
-            "repo": "patator",
-            "stars": 3919
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nozzlr",
-          "description": "Nozzlr is a bruteforce framework, trully modular and script-friendly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-11T21:59:41Z",
-            "owner": "intrd",
-            "repo": "nozzlr",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "Bruteforcers"
-    },
-    {
-      "description": "Tools used for solving Exploits challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pwntools",
-          "description": "CTF Framework for writing exploits.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T19:48:06Z",
-            "owner": "Gallopsled",
-            "repo": "pwntools",
-            "stars": 13645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ROP Gadget",
-          "description": "Framework for ROP exploitation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-24T05:49:04Z",
-            "owner": "JonathanSalwan",
-            "repo": "ROPgadget",
-            "stars": 4465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Qira",
-          "description": "QEMU Interactive Runtime Analyser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-07-02T21:00:16Z",
-            "owner": "geohot",
-            "repo": "qira",
-            "stars": 4069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "one_gadget",
-          "description": "A tool to find the one gadget call.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T00:48:49Z",
-            "owner": "david942j",
-            "repo": "one_gadget",
-            "stars": 2345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DLLInjector",
-          "description": "Inject dlls in processes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2013-01-07T19:35:58Z",
-            "owner": "OpenSecurityResearch",
-            "repo": "dllinjector",
-            "stars": 502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "V0lt",
-          "description": "Security CTF Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-01-22T00:18:00Z",
-            "owner": "P1kachu",
-            "repo": "v0lt",
-            "stars": 370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libformatstr",
-          "description": "Simplify format string exploitation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-02T09:15:14Z",
-            "owner": "hellman",
-            "repo": "libformatstr",
-            "stars": 346
-          }
-        }
-      ],
-      "title": "Exploits"
-    },
-    {
-      "description": "Tools used for solving Forensics challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Volatility",
-          "description": "To investigate memory dumps.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-05-16T13:40:55Z",
-            "owner": "volatilityfoundation",
-            "repo": "volatility",
-            "stars": 8059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fibratus",
-          "description": "Tool for exploration and tracing of the Windows kernel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T18:55:36Z",
-            "owner": "rabbitstack",
-            "repo": "fibratus",
-            "stars": 2526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DVCS Ripper",
-          "description": "Rips web accessible (distributed) version control systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-07-19T12:49:07Z",
-            "owner": "kost",
-            "repo": "dvcs-ripper",
-            "stars": 1781
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "USBRip",
-          "description": "Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-10-03T15:56:42Z",
-            "owner": "snovvcrash",
-            "repo": "usbrip",
-            "stars": 1182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Creddump",
-          "description": "Dump windows credentials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-08T14:26:25Z",
-            "owner": "moyix",
-            "repo": "creddump",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shellbags",
-          "description": "Investigate NT_USER.dat files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-31T17:43:54Z",
-            "owner": "williballenthin",
-            "repo": "shellbags",
-            "stars": 161
-          }
-        }
-      ],
-      "title": "Forensics"
-    },
-    {
-      "description": "Tools used for solving Networking challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Masscan",
-          "description": "Mass IP port scanner, TCP port scanner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-23T20:34:38Z",
-            "owner": "robertdavidgraham",
-            "repo": "masscan",
-            "stars": 25935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nipe",
-          "description": "Nipe is a script to make Tor Network your default gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-06-27T10:01:13Z",
-            "owner": "htrgouvea",
-            "repo": "nipe",
-            "stars": 2385
-          }
-        }
-      ],
-      "title": "Networking"
-    },
-    {
-      "description": "Tools used for solving Reversing challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jadx",
-          "description": "Decompile Android files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-05T19:19:01Z",
-            "owner": "skylot",
-            "repo": "jadx",
-            "stars": 50118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "radare2",
-          "description": "A portable reversing framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T16:22:30Z",
-            "owner": "radareorg",
-            "repo": "radare2",
-            "stars": 24592
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BinWalk",
-          "description": "Analyze, reverse engineer, and extract firmware images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T15:27:34Z",
-            "owner": "ReFirmLabs",
-            "repo": "binwalk",
-            "stars": 14235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Z3",
-          "description": "A theorem prover from Microsoft Research.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T17:39:06Z",
-            "owner": "Z3Prover",
-            "repo": "z3",
-            "stars": 12566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pwndbg",
-          "description": "A GDB plugin that provides a suite of utilities to hack around GDB easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:42:04Z",
-            "owner": "pwndbg",
-            "repo": "pwndbg",
-            "stars": 10771
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Objection",
-          "description": "Runtime Mobile Exploration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T13:40:22Z",
-            "owner": "sensepost",
-            "repo": "objection",
-            "stars": 9323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Angr",
-          "description": "platform-agnostic binary analysis framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:39:57Z",
-            "owner": "angr",
-            "repo": "angr",
-            "stars": 9019
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GEF",
-          "description": "GDB plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-16T15:24:21Z",
-            "owner": "hugsy",
-            "repo": "gef",
-            "stars": 8319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Androguard",
-          "description": "Reverse engineer Android applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T17:59:02Z",
-            "owner": "androguard",
-            "repo": "androguard",
-            "stars": 6196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PEDA",
-          "description": "GDB plugin (only python2.7).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-29T08:32:28Z",
-            "owner": "longld",
-            "repo": "peda",
-            "stars": 6147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Triton",
-          "description": "Dynamic Binary Analysis (DBA) framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-28T13:39:36Z",
-            "owner": "JonathanSalwan",
-            "repo": "Triton",
-            "stars": 4267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plasma",
-          "description": "An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-31T16:57:42Z",
-            "owner": "plasma-disassembler",
-            "repo": "plasma",
-            "stars": 3072
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PINCE",
-          "description": "GDB front-end/reverse engineering tool, focused on game-hacking and automation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T09:09:11Z",
-            "owner": "korcankaraokcu",
-            "repo": "PINCE",
-            "stars": 3060
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Krakatau",
-          "description": "Java decompiler and disassembler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-07T03:40:10Z",
-            "owner": "Storyyeller",
-            "repo": "Krakatau",
-            "stars": 2243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Barf",
-          "description": "Binary Analysis and Reverse engineering Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-24T16:06:27Z",
-            "owner": "programa-stic",
-            "repo": "barf-project",
-            "stars": 1451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cwe_checker",
-          "description": "cwe_checker finds vulnerable patterns in binary executables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T10:59:28Z",
-            "owner": "fkie-cad",
-            "repo": "cwe_checker",
-            "stars": 1349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "demovfuscator",
-          "description": "A work-in-progress deobfuscator for movfuscated binaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-05-04T09:24:22Z",
-            "owner": "leetonidas",
-            "repo": "demovfuscator",
-            "stars": 762
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Apk2Gold",
-          "description": "Yet another Android decompiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-03-05T05:38:51Z",
-            "owner": "lxdvs",
-            "repo": "apk2gold",
-            "stars": 699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PinCTF",
-          "description": "A tool which uses intel pin for Side Channel Analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-12T20:20:00Z",
-            "owner": "ChrisTheCoolHut",
-            "repo": "PinCTF",
-            "stars": 504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uncompyle",
-          "description": "Decompile Python 2.7 binaries (.pyc).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2017-06-02T09:51:24Z",
-            "owner": "gstarnberger",
-            "repo": "uncompyle",
-            "stars": 424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Boomerang",
-          "description": "Decompile x86/SPARC/PowerPC/ST-20 binaries to C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-12-28T17:39:19Z",
-            "owner": "BoomerangDecompiler",
-            "repo": "boomerang",
-            "stars": 407
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ctf_import",
-          "description": "run basic functions from stripped binaries cross platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-12-13T14:15:13Z",
-            "owner": "sciencemanx",
-            "repo": "ctf_import",
-            "stars": 114
-          }
-        }
-      ],
-      "title": "Reversing"
-    },
-    {
-      "description": "Tools used for solving Steganography challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SmartDeblur",
-          "description": "Used to deblur and fix defocused images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-04-02T05:48:49Z",
-            "owner": "Y-Vladimir",
-            "repo": "SmartDeblur",
-            "stars": 2412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zsteg",
-          "description": "PNG/BMP analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-01-28T08:51:42Z",
-            "owner": "zed-0xff",
-            "repo": "zsteg",
-            "stars": 1609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StegCracker",
-          "description": "Steganography brute-force utility to uncover hidden data inside files.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-12-25T23:00:55Z",
-            "owner": "Paradoxis",
-            "repo": "StegCracker",
-            "stars": 603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stegextract",
-          "description": "Detect hidden files and text in images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-05-21T08:33:26Z",
-            "owner": "evyatarmeged",
-            "repo": "stegextract",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "Steganography"
-    },
-    {
-      "description": "Tools used for solving Web challenges",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SQLMap",
-          "description": "Automatic SQL injection and database takeover tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T12:50:42Z",
-            "owner": "sqlmapproject",
-            "repo": "sqlmap",
-            "stars": 38210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Commix",
-          "description": "Automated All-in-One OS Command Injection and Exploitation Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:14:39Z",
-            "owner": "commixproject",
-            "repo": "commix",
-            "stars": 5819
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "W3af",
-          "description": "Web Application Attack and Audit Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-22T06:05:59Z",
-            "owner": "andresriancho",
-            "repo": "w3af",
-            "stars": 4901
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Raccoon",
-          "description": "A high performance offensive security tool for reconnaissance and vulnerability scanning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T21:23:15Z",
-            "owner": "evyatarmeged",
-            "repo": "Raccoon",
-            "stars": 3993
-          }
-        }
-      ],
-      "title": "Web"
-    },
-    {
-      "description": "Collections of installer scripts, useful tools",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CTF Tools",
-          "description": "Collection of setup scripts to install various security research tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nix",
-            "last_commit": "2026-08-12T08:57:13Z",
-            "owner": "zardus",
-            "repo": "ctf-tools",
-            "stars": 9495
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LazyKali",
-          "description": "A 2016 refresh of LazyKali which simplifies install of tools and configuration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2016-09-04T19:06:41Z",
-            "owner": "jlevitsk",
-            "repo": "lazykali",
-            "stars": 50
-          }
-        }
-      ],
-      "title": "Starter Packs"
-    },
-    {
-      "description": "Always online CTFs",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ROP Wargames",
-          "description": "ROP Wargames.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2017-09-11T12:46:45Z",
-            "owner": "xelenonz",
-            "repo": "game",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gracker",
-          "description": "Binary challenges having a slow learning curve, and write-ups for each level.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2011-11-16T22:16:23Z",
-            "owner": "Samuirai",
-            "repo": "gracker",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Wargames"
-    },
-    {
-      "description": "Various Wikis available for learning about CTFs",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ISIS Lab",
-          "description": "CTF Wiki by Isis lab.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2013-06-28T23:06:07Z",
-            "owner": "osirislab",
-            "repo": "Project-Ideas",
-            "stars": 384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenToAll",
-          "description": "CTF tips by OTA CTF team members.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-10-05T20:41:51Z",
-            "owner": "OpenToAllCTF",
-            "repo": "Tips",
-            "stars": 153
-          }
-        }
-      ],
-      "title": "Wikis"
-    },
-    {
-      "description": "Collections of CTF write-ups",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pwntools writeups",
-          "description": "A collection of CTF write-ups all using pwntools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-10-05T22:52:17Z",
-            "owner": "Gallopsled",
-            "repo": "pwntools-write-ups",
-            "stars": 526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HackThisSite",
-          "description": "CTF write-ups repo maintained by HackThisSite team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-21T02:38:05Z",
-            "owner": "HackThisSite",
-            "repo": "CTF-Writeups",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smoke Leet Everyday",
-          "description": "CTF write-ups repo maintained by SmokeLeetEveryday team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-08T17:00:07Z",
-            "owner": "smokeleeteveryday",
-            "repo": "CTF_WRITEUPS",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mzfr",
-          "description": "CTF competition write-ups by mzfr",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-13T03:18:47Z",
-            "owner": "mzfr",
-            "repo": "ctf-writeups",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "0e85dc6eaf",
-          "description": "Write-ups for CTF challenges by 0e85dc6eaf",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-02-25T22:46:42Z",
-            "owner": "0e85dc6eaf",
-            "repo": "CTF-Writeups",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CTFTime Scrapper",
-          "description": "Scraps all writeup from CTF Time and organize which to read first.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-04-15T14:50:00Z",
-            "owner": "abdilahrf",
-            "repo": "CTFWriteupScrapper",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SababaSec",
-          "description": "A collection of CTF write-ups by the SababaSec team",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-17T11:16:32Z",
-            "owner": "SababaSec",
-            "repo": "ctf-writeups",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Writeups Collections"
-    },
-    {
-      "description": "CC0 :)",
-      "items": [],
-      "title": "LICENSE"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:44:22.652Z",
+    "last_updated": "2026-08-19T12:21:31.694Z",
     "original_repository": "apsdehal/awesome-ctf",
+    "original_repository_id": 31452467,
     "original_repository_sha": "eb504b242be3918cbd46e1a5a6274671f477071f",
     "enhanced_repository": "enhansome/enhansome-ctf",
     "enhanced_repository_description": null,
