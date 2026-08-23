@@ -234,7 +234,7 @@
                 "last_commit": "2026-08-21T22:52:09Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38839
+                "stars": 38848
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-11-22T08:11:38Z",
                 "owner": "mishoo",
                 "repo": "UglifyJS",
-                "stars": 13381
+                "stars": 13380
               }
             }
           ],
@@ -277,7 +277,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19841
+                "stars": 19848
               }
             },
             {
@@ -314,7 +314,7 @@
                 "last_commit": "2026-08-12T02:01:14Z",
                 "owner": "RsaCtfTool",
                 "repo": "RsaCtfTool",
-                "stars": 7090
+                "stars": 7092
               }
             },
             {
@@ -329,7 +329,7 @@
                 "last_commit": "2026-07-20T20:41:57Z",
                 "owner": "ius",
                 "repo": "rsatool",
-                "stars": 1653
+                "stars": 1654
               }
             },
             {
@@ -411,7 +411,7 @@
                 "last_commit": "2026-08-01T22:19:56Z",
                 "owner": "openwall",
                 "repo": "john",
-                "stars": 13526
+                "stars": 13528
               }
             },
             {
@@ -463,7 +463,7 @@
                 "last_commit": "2026-08-16T19:48:06Z",
                 "owner": "Gallopsled",
                 "repo": "pwntools",
-                "stars": 13649
+                "stars": 13652
               }
             },
             {
@@ -505,7 +505,7 @@
                 "archived": false,
                 "id": 81182710,
                 "language": "Ruby",
-                "last_commit": "2026-08-22T17:00:49Z",
+                "last_commit": "2026-08-23T15:49:14Z",
                 "owner": "david942j",
                 "repo": "one_gadget",
                 "stars": 2344
@@ -672,7 +672,7 @@
                 "last_commit": "2026-04-23T20:34:38Z",
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25943
+                "stars": 25944
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50155
+                "stars": 50168
               }
             },
             {
@@ -721,10 +721,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-22T11:21:08Z",
+                "last_commit": "2026-08-23T14:54:17Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24619
+                "stars": 24627
               }
             },
             {
@@ -739,7 +739,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14254
+                "stars": 14257
               }
             },
             {
@@ -751,10 +751,10 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-22T16:34:24Z",
+                "last_commit": "2026-08-23T17:13:01Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12588
+                "stars": 12595
               }
             },
             {
@@ -766,10 +766,10 @@
                 "archived": false,
                 "id": 31181767,
                 "language": "Python",
-                "last_commit": "2026-08-20T21:52:43Z",
+                "last_commit": "2026-08-23T01:19:05Z",
                 "owner": "pwndbg",
                 "repo": "pwndbg",
-                "stars": 10779
+                "stars": 10783
               }
             },
             {
@@ -784,7 +784,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9336
+                "stars": 9339
               }
             },
             {
@@ -796,10 +796,10 @@
                 "archived": false,
                 "id": 40328394,
                 "language": "Python",
-                "last_commit": "2026-08-22T17:31:55Z",
+                "last_commit": "2026-08-23T17:30:27Z",
                 "owner": "angr",
                 "repo": "angr",
-                "stars": 9025
+                "stars": 9027
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-20T21:35:23Z",
                 "owner": "hugsy",
                 "repo": "gef",
-                "stars": 8320
+                "stars": 8321
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6202
+                "stars": 6203
               }
             },
             {
@@ -859,7 +859,7 @@
                 "last_commit": "2026-07-28T13:39:36Z",
                 "owner": "JonathanSalwan",
                 "repo": "Triton",
-                "stars": 4270
+                "stars": 4272
               }
             },
             {
@@ -889,7 +889,7 @@
                 "last_commit": "2026-08-15T09:09:11Z",
                 "owner": "korcankaraokcu",
                 "repo": "PINCE",
-                "stars": 3064
+                "stars": 3067
               }
             },
             {
@@ -934,7 +934,7 @@
                 "last_commit": "2026-08-20T09:29:19Z",
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1349
+                "stars": 1351
               }
             },
             {
@@ -1046,7 +1046,7 @@
                 "last_commit": "2019-04-02T05:48:49Z",
                 "owner": "Y-Vladimir",
                 "repo": "SmartDeblur",
-                "stars": 2412
+                "stars": 2413
               }
             },
             {
@@ -1061,7 +1061,7 @@
                 "last_commit": "2026-01-28T08:51:42Z",
                 "owner": "zed-0xff",
                 "repo": "zsteg",
-                "stars": 1611
+                "stars": 1614
               }
             },
             {
@@ -1110,10 +1110,10 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-18T12:50:42Z",
+                "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38241
+                "stars": 38250
               }
             },
             {
@@ -1125,10 +1125,10 @@
                 "archived": false,
                 "id": 32572504,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:52:49Z",
+                "last_commit": "2026-08-23T07:42:12Z",
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5821
+                "stars": 5822
               }
             },
             {
@@ -1158,7 +1158,7 @@
                 "last_commit": "2026-04-21T21:23:15Z",
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 3999
+                "stars": 4000
               }
             }
           ],
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:36:37.963Z",
+    "last_updated": "2026-08-23T17:35:23.422Z",
     "original_repository": "apsdehal/awesome-ctf",
     "original_repository_id": 31452467,
     "original_repository_sha": "eb504b242be3918cbd46e1a5a6274671f477071f",
