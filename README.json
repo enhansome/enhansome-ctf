@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Dnscat2",
+              "description": "Hosts communication through DNS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7448868,
+                "language": "PHP",
+                "last_commit": "2024-03-14T11:17:49Z",
+                "owner": "iagox86",
+                "repo": "dnscat2",
+                "stars": 3956
+              }
+            }
+          ],
+          "description": "Tools used for creating Forensics challenges",
+          "node_type": "group",
+          "title": "Forensics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CTFd",
               "description": "Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-19T14:55:05Z",
                 "owner": "CTFd",
                 "repo": "CTFd",
-                "stars": 6797
+                "stars": 6799
               }
             },
             {
@@ -92,7 +114,7 @@
                 "last_commit": "2024-05-13T17:56:47Z",
                 "owner": "picoCTF",
                 "repo": "picoCTF",
-                "stars": 313
+                "stars": 314
               }
             },
             {
@@ -231,10 +253,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T22:52:09Z",
+                "last_commit": "2026-08-24T13:11:53Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38848
+                "stars": 38858
               }
             },
             {
@@ -249,7 +271,7 @@
                 "last_commit": "2024-11-22T08:11:38Z",
                 "owner": "mishoo",
                 "repo": "UglifyJS",
-                "stars": 13380
+                "stars": 13381
               }
             }
           ],
@@ -277,7 +299,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19848
+                "stars": 19853
               }
             },
             {
@@ -314,7 +336,7 @@
                 "last_commit": "2026-08-12T02:01:14Z",
                 "owner": "RsaCtfTool",
                 "repo": "RsaCtfTool",
-                "stars": 7092
+                "stars": 7093
               }
             },
             {
@@ -411,7 +433,7 @@
                 "last_commit": "2026-08-01T22:19:56Z",
                 "owner": "openwall",
                 "repo": "john",
-                "stars": 13528
+                "stars": 13534
               }
             },
             {
@@ -426,7 +448,7 @@
                 "last_commit": "2025-05-20T00:07:33Z",
                 "owner": "lanjelot",
                 "repo": "patator",
-                "stars": 3922
+                "stars": 3921
               }
             },
             {
@@ -463,7 +485,7 @@
                 "last_commit": "2026-08-16T19:48:06Z",
                 "owner": "Gallopsled",
                 "repo": "pwntools",
-                "stars": 13652
+                "stars": 13655
               }
             },
             {
@@ -478,7 +500,7 @@
                 "last_commit": "2026-06-24T05:49:04Z",
                 "owner": "JonathanSalwan",
                 "repo": "ROPgadget",
-                "stars": 4467
+                "stars": 4468
               }
             },
             {
@@ -505,10 +527,10 @@
                 "archived": false,
                 "id": 81182710,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T15:49:14Z",
+                "last_commit": "2026-08-24T12:22:29Z",
                 "owner": "david942j",
                 "repo": "one_gadget",
-                "stars": 2344
+                "stars": 2345
               }
             },
             {
@@ -590,7 +612,7 @@
                 "last_commit": "2026-08-19T16:42:36Z",
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2534
+                "stars": 2536
               }
             },
             {
@@ -605,7 +627,7 @@
                 "last_commit": "2024-07-19T12:49:07Z",
                 "owner": "kost",
                 "repo": "dvcs-ripper",
-                "stars": 1782
+                "stars": 1783
               }
             },
             {
@@ -687,7 +709,7 @@
                 "last_commit": "2026-06-27T10:01:13Z",
                 "owner": "htrgouvea",
                 "repo": "nipe",
-                "stars": 2387
+                "stars": 2388
               }
             }
           ],
@@ -709,7 +731,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50168
+                "stars": 50181
               }
             },
             {
@@ -721,10 +743,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-23T14:54:17Z",
+                "last_commit": "2026-08-24T13:18:49Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24627
+                "stars": 24632
               }
             },
             {
@@ -739,7 +761,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14257
+                "stars": 14264
               }
             },
             {
@@ -751,10 +773,10 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-23T17:13:01Z",
+                "last_commit": "2026-08-24T03:52:50Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12595
+                "stars": 12598
               }
             },
             {
@@ -769,7 +791,7 @@
                 "last_commit": "2026-08-23T01:19:05Z",
                 "owner": "pwndbg",
                 "repo": "pwndbg",
-                "stars": 10783
+                "stars": 10789
               }
             },
             {
@@ -784,7 +806,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9339
+                "stars": 9341
               }
             },
             {
@@ -796,10 +818,10 @@
                 "archived": false,
                 "id": 40328394,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:30:27Z",
+                "last_commit": "2026-08-24T08:43:42Z",
                 "owner": "angr",
                 "repo": "angr",
-                "stars": 9027
+                "stars": 9030
               }
             },
             {
@@ -814,7 +836,7 @@
                 "last_commit": "2026-08-20T21:35:23Z",
                 "owner": "hugsy",
                 "repo": "gef",
-                "stars": 8321
+                "stars": 8323
               }
             },
             {
@@ -829,7 +851,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6203
+                "stars": 6202
               }
             },
             {
@@ -844,7 +866,7 @@
                 "last_commit": "2024-07-29T08:32:28Z",
                 "owner": "longld",
                 "repo": "peda",
-                "stars": 6147
+                "stars": 6148
               }
             },
             {
@@ -886,7 +908,7 @@
                 "archived": false,
                 "id": 52111486,
                 "language": "Python",
-                "last_commit": "2026-08-15T09:09:11Z",
+                "last_commit": "2026-08-24T12:47:20Z",
                 "owner": "korcankaraokcu",
                 "repo": "PINCE",
                 "stars": 3067
@@ -1026,6 +1048,21 @@
                 "repo": "ctf_import",
                 "stars": 114
               }
+            },
+            {
+              "node_type": "item",
+              "title": "RABCDAsm",
+              "description": "Collection of utilities including an ActionScript 3 assembler/disassembler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 647944,
+                "language": "D",
+                "last_commit": "2023-03-31T23:20:41Z",
+                "owner": "CyberShadow",
+                "repo": "RABCDAsm",
+                "stars": 456
+              }
             }
           ],
           "description": "Tools used for solving Reversing challenges\nJavaScript Deobfuscators\nSWF Analyzers",
@@ -1061,7 +1098,7 @@
                 "last_commit": "2026-01-28T08:51:42Z",
                 "owner": "zed-0xff",
                 "repo": "zsteg",
-                "stars": 1614
+                "stars": 1616
               }
             },
             {
@@ -1113,7 +1150,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38250
+                "stars": 38255
               }
             },
             {
@@ -1125,10 +1162,10 @@
                 "archived": false,
                 "id": 32572504,
                 "language": "Python",
-                "last_commit": "2026-08-23T07:42:12Z",
+                "last_commit": "2026-08-24T07:25:47Z",
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5822
+                "stars": 5821
               }
             },
             {
@@ -1158,7 +1195,7 @@
                 "last_commit": "2026-04-21T21:23:15Z",
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 4000
+                "stars": 3998
               }
             }
           ],
@@ -1176,6 +1213,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Flare VM",
+              "description": "Based on Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96361940,
+                "language": "PowerShell",
+                "last_commit": "2026-06-23T01:18:45Z",
+                "owner": "mandiant",
+                "repo": "flare-vm",
+                "stars": 8957
+              }
+            }
+          ],
+          "description": "Penetration testing and security lab Operating Systems\nMalware analysts and reverse-engineering",
+          "node_type": "group",
+          "title": "Operating Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CTF Tools",
               "description": "Collection of setup scripts to install various security research tools.",
               "children": [],
@@ -1186,7 +1245,7 @@
                 "last_commit": "2026-08-12T08:57:13Z",
                 "owner": "zardus",
                 "repo": "ctf-tools",
-                "stars": 9497
+                "stars": 9499
               }
             },
             {
@@ -1208,6 +1267,28 @@
           "description": "Collections of installer scripts, useful tools",
           "node_type": "group",
           "title": "Starter Packs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MIPT CTF",
+              "description": "A small course for beginners in CTFs (in Russian).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25430491,
+                "language": "Python",
+                "last_commit": "2021-12-26T23:58:04Z",
+                "owner": "xairy",
+                "repo": "mipt-ctf",
+                "stars": 281
+              }
+            }
+          ],
+          "description": "Tutorials to learn how to play CTFs",
+          "node_type": "group",
+          "title": "Tutorials"
         },
         {
           "children": [
@@ -1240,11 +1321,48 @@
                 "repo": "gracker",
                 "stars": 13
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Juice Shop CTF",
+              "description": "Scripts and tools for hosting a CTF on OWASP Juice Shop easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74905947,
+                "language": "TypeScript",
+                "last_commit": "2026-04-16T13:50:05Z",
+                "owner": "juice-shop",
+                "repo": "juice-shop-ctf",
+                "stars": 476
+              }
             }
           ],
           "description": "Always online CTFs\nSelf-hosted CTFs",
           "node_type": "group",
           "title": "Wargames"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome CTF Cheatsheet",
+              "description": "CTF Cheatsheet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239819765,
+                "language": null,
+                "last_commit": "2025-04-29T23:18:17Z",
+                "owner": "uppusaikiran",
+                "repo": "awesome-ctf-cheatsheet",
+                "stars": 140
+              }
+            }
+          ],
+          "description": "Various general websites about and on CTF",
+          "node_type": "group",
+          "title": "Websites"
         },
         {
           "children": [
@@ -1400,7 +1518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:35:23.422Z",
+    "last_updated": "2026-08-24T13:51:42.551Z",
     "original_repository": "apsdehal/awesome-ctf",
     "original_repository_id": 31452467,
     "original_repository_sha": "eb504b242be3918cbd46e1a5a6274671f477071f",
