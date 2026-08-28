@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-14T11:17:49Z",
                 "owner": "iagox86",
                 "repo": "dnscat2",
-                "stars": 3958
+                "stars": 3957
               }
             }
           ],
@@ -69,7 +69,7 @@
                 "last_commit": "2026-07-31T16:23:39Z",
                 "owner": "cliffe",
                 "repo": "SecGen",
-                "stars": 2791
+                "stars": 2792
               }
             },
             {
@@ -253,10 +253,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:29:31Z",
+                "last_commit": "2026-08-27T20:53:58Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38891
+                "stars": 38897
               }
             },
             {
@@ -299,7 +299,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19865
+                "stars": 19868
               }
             },
             {
@@ -314,7 +314,7 @@
                 "last_commit": "2023-09-15T16:01:47Z",
                 "owner": "tomac",
                 "repo": "yersinia",
-                "stars": 864
+                "stars": 865
               }
             }
           ],
@@ -336,7 +336,7 @@
                 "last_commit": "2026-08-12T02:01:14Z",
                 "owner": "RsaCtfTool",
                 "repo": "RsaCtfTool",
-                "stars": 7097
+                "stars": 7098
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-07-20T20:41:57Z",
                 "owner": "ius",
                 "repo": "rsatool",
-                "stars": 1654
+                "stars": 1655
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2025-01-27T18:44:38Z",
                 "owner": "iagox86",
                 "repo": "hash_extender",
-                "stars": 1211
+                "stars": 1212
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2026-08-01T22:19:56Z",
                 "owner": "openwall",
                 "repo": "john",
-                "stars": 13548
+                "stars": 13551
               }
             },
             {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-06-24T05:49:04Z",
                 "owner": "JonathanSalwan",
                 "repo": "ROPgadget",
-                "stars": 4470
+                "stars": 4469
               }
             },
             {
@@ -527,7 +527,7 @@
                 "archived": false,
                 "id": 81182710,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T12:26:17Z",
+                "last_commit": "2026-08-27T21:02:37Z",
                 "owner": "david942j",
                 "repo": "one_gadget",
                 "stars": 2346
@@ -694,7 +694,7 @@
                 "last_commit": "2026-04-23T20:34:38Z",
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25956
+                "stars": 25958
               }
             },
             {
@@ -731,7 +731,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50230
+                "stars": 50238
               }
             },
             {
@@ -743,10 +743,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T08:56:54Z",
+                "last_commit": "2026-08-27T21:57:37Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24656
+                "stars": 24662
               }
             },
             {
@@ -761,7 +761,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14277
+                "stars": 14281
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-27T10:49:27Z",
+                "last_commit": "2026-08-27T23:35:45Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12610
+                "stars": 12611
               }
             },
             {
@@ -788,10 +788,10 @@
                 "archived": false,
                 "id": 31181767,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:40:53Z",
+                "last_commit": "2026-08-28T00:27:51Z",
                 "owner": "pwndbg",
                 "repo": "pwndbg",
-                "stars": 10801
+                "stars": 10803
               }
             },
             {
@@ -806,7 +806,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9348
+                "stars": 9349
               }
             },
             {
@@ -818,10 +818,10 @@
                 "archived": false,
                 "id": 40328394,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:12:02Z",
+                "last_commit": "2026-08-28T01:01:15Z",
                 "owner": "angr",
                 "repo": "angr",
-                "stars": 9040
+                "stars": 9041
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2026-08-20T21:35:23Z",
                 "owner": "hugsy",
                 "repo": "gef",
-                "stars": 8326
+                "stars": 8328
               }
             },
             {
@@ -851,7 +851,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6209
+                "stars": 6210
               }
             },
             {
@@ -956,7 +956,7 @@
                 "last_commit": "2026-08-20T09:29:19Z",
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1352
+                "stars": 1353
               }
             },
             {
@@ -1098,7 +1098,7 @@
                 "last_commit": "2026-01-28T08:51:42Z",
                 "owner": "zed-0xff",
                 "repo": "zsteg",
-                "stars": 1617
+                "stars": 1618
               }
             },
             {
@@ -1150,7 +1150,7 @@
                 "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38278
+                "stars": 38284
               }
             },
             {
@@ -1165,7 +1165,7 @@
                 "last_commit": "2026-08-25T03:34:39Z",
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5824
+                "stars": 5825
               }
             },
             {
@@ -1195,7 +1195,7 @@
                 "last_commit": "2026-04-21T21:23:15Z",
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 4001
+                "stars": 4003
               }
             }
           ],
@@ -1518,7 +1518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:11.861Z",
+    "last_updated": "2026-08-28T01:29:44.695Z",
     "original_repository_info": {
       "archived": false,
       "id": 31452467,
@@ -1526,7 +1526,7 @@
       "last_commit": "2024-07-22T19:59:35Z",
       "owner": "apsdehal",
       "repo": "awesome-ctf",
-      "stars": 11800
+      "stars": 11802
     },
     "original_repository_sha": "eb504b242be3918cbd46e1a5a6274671f477071f",
     "enhanced_repository": "enhansome/enhansome-ctf",
