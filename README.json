@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "iagox86",
                 "repo": "dnscat2",
-                "stars": 3957,
+                "stars": 3958,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -100,7 +100,7 @@
                 "open_issues": 37,
                 "owner": "cliffe",
                 "repo": "SecGen",
-                "stars": 2793,
+                "stars": 2794,
                 "topics": [
                   "ctf-challenges",
                   "cybok",
@@ -401,10 +401,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:59:06Z",
-                "open_issues": 593,
+                "open_issues": 596,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38906,
+                "stars": 38913,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -427,7 +427,7 @@
                 "open_issues": 45,
                 "owner": "mishoo",
                 "repo": "UglifyJS",
-                "stars": 13383,
+                "stars": 13382,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -461,7 +461,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19872,
+                "stars": 19894,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -531,7 +531,7 @@
                 "open_issues": 3,
                 "owner": "RsaCtfTool",
                 "repo": "RsaCtfTool",
-                "stars": 7099,
+                "stars": 7101,
                 "topics": [
                   "cryptography",
                   "rsa",
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "ius",
                 "repo": "rsatool",
-                "stars": 1655,
+                "stars": 1656,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -695,7 +695,7 @@
                 "open_issues": 513,
                 "owner": "openwall",
                 "repo": "john",
-                "stars": 13560,
+                "stars": 13564,
                 "topics": [
                   "assembler",
                   "c",
@@ -733,7 +733,7 @@
                 "open_issues": 36,
                 "owner": "lanjelot",
                 "repo": "patator",
-                "stars": 3924,
+                "stars": 3927,
                 "topics": [
                   "brute-force",
                   "pentest"
@@ -790,7 +790,7 @@
                 "open_issues": 118,
                 "owner": "Gallopsled",
                 "repo": "pwntools",
-                "stars": 13661,
+                "stars": 13665,
                 "topics": [
                   "assembly",
                   "bsd",
@@ -831,7 +831,7 @@
                 "open_issues": 15,
                 "owner": "JonathanSalwan",
                 "repo": "ROPgadget",
-                "stars": 4470,
+                "stars": 4471,
                 "topics": [
                   "binary-exploitation",
                   "reverse-engineering",
@@ -875,8 +875,8 @@
                 "id": 81182710,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:30:48Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-29T17:23:34Z",
+                "open_issues": 1,
                 "owner": "david942j",
                 "repo": "one_gadget",
                 "stars": 2346,
@@ -1150,7 +1150,7 @@
                 "open_issues": 414,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25959,
+                "stars": 25961,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1209,7 +1209,7 @@
                 "open_issues": 443,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50251,
+                "stars": 50258,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1231,8 +1231,8 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T01:30:06Z",
-                "open_issues": 824,
+                "last_commit": "2026-08-29T18:45:47Z",
+                "open_issues": 826,
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24674,
@@ -1267,7 +1267,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14284,
+                "stars": 14289,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1284,11 +1284,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:38:18Z",
-                "open_issues": 58,
+                "last_commit": "2026-08-29T18:06:58Z",
+                "open_issues": 57,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12614,
+                "stars": 12615,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1305,11 +1305,11 @@
                 "id": 31181767,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T16:23:29Z",
-                "open_issues": 216,
+                "last_commit": "2026-08-29T11:29:40Z",
+                "open_issues": 218,
                 "owner": "pwndbg",
                 "repo": "pwndbg",
-                "stars": 10805,
+                "stars": 10808,
                 "topics": [
                   "binary-ninja",
                   "capture-the-flag",
@@ -1349,7 +1349,7 @@
                 "open_issues": 55,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9350,
+                "stars": 9351,
                 "topics": [
                   "android",
                   "framework",
@@ -1375,11 +1375,11 @@
                 "id": 40328394,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T04:11:12Z",
-                "open_issues": 712,
+                "last_commit": "2026-08-29T19:26:30Z",
+                "open_issues": 707,
                 "owner": "angr",
                 "repo": "angr",
-                "stars": 9042,
+                "stars": 9044,
                 "topics": [
                   "analysis",
                   "angr",
@@ -1405,7 +1405,7 @@
                 "open_issues": 14,
                 "owner": "hugsy",
                 "repo": "gef",
-                "stars": 8327,
+                "stars": 8324,
                 "topics": [
                   "binary-ninja",
                   "ctf",
@@ -1474,7 +1474,7 @@
                 "open_issues": 76,
                 "owner": "longld",
                 "repo": "peda",
-                "stars": 6147,
+                "stars": 6148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1514,6 +1514,44 @@
             },
             {
               "node_type": "item",
+              "title": "PINCE",
+              "description": "GDB front-end/reverse engineering tool, focused on game-hacking and automation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reverse engineering tool for Linux",
+                "homepage": "https://korcankaraokcu.github.io/PINCE/",
+                "id": 52111486,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-24T20:47:40Z",
+                "open_issues": 6,
+                "owner": "korcankaraokcu",
+                "repo": "PINCE",
+                "stars": 3071,
+                "topics": [
+                  "assembler",
+                  "cheat-engine",
+                  "debugging-tool",
+                  "disassembler",
+                  "dissect-code",
+                  "game-hacking",
+                  "gdb",
+                  "gdb-python-scripts",
+                  "hex-editor",
+                  "injection",
+                  "memory-hacking",
+                  "opcode-searcher",
+                  "patcher",
+                  "python3",
+                  "reverse-engineering",
+                  "tracer"
+                ]
+              },
+              "first_seen": "2026-08-29T00:58:18.849Z"
+            },
+            {
+              "node_type": "item",
               "title": "Plasma",
               "description": "An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.",
               "children": [],
@@ -1543,44 +1581,6 @@
             },
             {
               "node_type": "item",
-              "title": "PINCE",
-              "description": "GDB front-end/reverse engineering tool, focused on game-hacking and automation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Reverse engineering tool for Linux",
-                "homepage": "https://korcankaraokcu.github.io/PINCE/",
-                "id": 52111486,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-24T20:47:40Z",
-                "open_issues": 6,
-                "owner": "korcankaraokcu",
-                "repo": "PINCE",
-                "stars": 3070,
-                "topics": [
-                  "assembler",
-                  "cheat-engine",
-                  "debugging-tool",
-                  "disassembler",
-                  "dissect-code",
-                  "game-hacking",
-                  "gdb",
-                  "gdb-python-scripts",
-                  "hex-editor",
-                  "injection",
-                  "memory-hacking",
-                  "opcode-searcher",
-                  "patcher",
-                  "python3",
-                  "reverse-engineering",
-                  "tracer"
-                ]
-              },
-              "first_seen": "2026-08-29T00:58:18.849Z"
-            },
-            {
-              "node_type": "item",
               "title": "Krakatau",
               "description": "Java decompiler and disassembler.",
               "children": [],
@@ -1595,7 +1595,7 @@
                 "open_issues": 25,
                 "owner": "Storyyeller",
                 "repo": "Krakatau",
-                "stars": 2245,
+                "stars": 2246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1956,10 +1956,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38294,
+                "stars": 38307,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1996,7 +1996,7 @@
                 "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5828,
+                "stars": 5829,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -2028,7 +2028,7 @@
                 "open_issues": 2031,
                 "owner": "andresriancho",
                 "repo": "w3af",
-                "stars": 4899,
+                "stars": 4900,
                 "topics": [
                   "appsec",
                   "cross-site-scripting",
@@ -2055,7 +2055,7 @@
                 "open_issues": 14,
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 4004,
+                "stars": 4005,
                 "topics": [
                   "enumeration",
                   "fuzzing",
@@ -2105,7 +2105,7 @@
                 "open_issues": 28,
                 "owner": "mandiant",
                 "repo": "flare-vm",
-                "stars": 8973,
+                "stars": 8977,
                 "topics": [
                   "flare",
                   "malware-analysis",
@@ -2137,7 +2137,7 @@
                 "open_issues": 12,
                 "owner": "zardus",
                 "repo": "ctf-tools",
-                "stars": 9503,
+                "stars": 9506,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -2186,7 +2186,7 @@
                 "open_issues": 0,
                 "owner": "xairy",
                 "repo": "mipt-ctf",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "ctf",
                   "wargames"
@@ -2561,7 +2561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:28.144Z",
+    "last_updated": "2026-08-29T19:45:09.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of CTF frameworks, libraries, resources and softwares",
@@ -2573,7 +2573,7 @@
       "open_issues": 66,
       "owner": "apsdehal",
       "repo": "awesome-ctf",
-      "stars": 11803,
+      "stars": 11806,
       "topics": [
         "awesome",
         "ctf",
