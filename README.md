@@ -119,8 +119,8 @@ Check solve section for steganography.
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
-* [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) ⭐ 13,558 | 🐛 513 | 🌐 C | 📅 2026-08-01 - Community enhanced version of John the Ripper.
-* [Patator](https://github.com/lanjelot/patator) ⭐ 3,923 | 🐛 36 | 🌐 Python | 📅 2025-05-20 - Patator is a multi-purpose brute-forcer, with a modular design.
+* [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) ⭐ 13,560 | 🐛 513 | 🌐 C | 📅 2026-08-01 - Community enhanced version of John the Ripper.
+* [Patator](https://github.com/lanjelot/patator) ⭐ 3,924 | 🐛 36 | 🌐 Python | 📅 2025-05-20 - Patator is a multi-purpose brute-forcer, with a modular design.
 * [Nozzlr](https://github.com/intrd/nozzlr) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2023-01-11 - Nozzlr is a bruteforce framework, trully modular and script-friendly.
 * [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
 * [Hydra](https://tools.kali.org/password-attacks/hydra) - A parallelized login cracker which supports numerous protocols to attack
@@ -135,7 +135,7 @@ Check solve section for steganography.
 * [Pwntools](https://github.com/Gallopsled/pwntools) ⭐ 13,661 | 🐛 118 | 🌐 Python | 📅 2026-08-28 - CTF Framework for writing exploits.
 * [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) ⭐ 4,470 | 🐛 15 | 🌐 Python | 📅 2026-06-24 - Framework for ROP exploitation.
 * [Qira](https://github.com/BinaryAnalysisPlatform/qira) ⭐ 4,070 | 🐛 69 | 🌐 C | 📅 2022-07-02 - QEMU Interactive Runtime Analyser.
-* [one\_gadget](https://github.com/david942j/one_gadget) ⭐ 2,346 | 🐛 3 | 🌐 Ruby | 📅 2026-08-27 -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call.
+* [one\_gadget](https://github.com/david942j/one_gadget) ⭐ 2,346 | 🐛 2 | 🌐 Ruby | 📅 2026-08-29 -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call.
   * `gem install one_gadget`
 * [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) ⭐ 502 | 🐛 1 | 🌐 C++ | 📅 2013-01-07 - Inject dlls in processes.
 * [V0lt](https://github.com/P1kachu/v0lt) ⚠️ Archived - Security CTF Toolkit.
@@ -196,13 +196,13 @@ Check solve section for steganography.
 
 *Tools used for solving Reversing challenges*
 
-* [Jadx](https://github.com/skylot/jadx) ⭐ 50,249 | 🐛 443 | 🌐 Java | 📅 2026-08-28 - Decompile Android files.
-* [radare2](https://github.com/radare/radare2) ⭐ 24,672 | 🐛 824 | 🌐 C | 📅 2026-08-29 - A portable reversing framework.
-* [BinWalk](https://github.com/devttys0/binwalk) ⭐ 14,283 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Analyze, reverse engineer, and extract firmware images.
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,614 | 🐛 54 | 🌐 C++ | 📅 2026-08-29 - A theorem prover from Microsoft Research.
+* [Jadx](https://github.com/skylot/jadx) ⭐ 50,251 | 🐛 443 | 🌐 Java | 📅 2026-08-28 - Decompile Android files.
+* [radare2](https://github.com/radare/radare2) ⭐ 24,674 | 🐛 824 | 🌐 C | 📅 2026-08-29 - A portable reversing framework.
+* [BinWalk](https://github.com/devttys0/binwalk) ⭐ 14,284 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Analyze, reverse engineer, and extract firmware images.
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,614 | 🐛 58 | 🌐 C++ | 📅 2026-08-29 - A theorem prover from Microsoft Research.
 * [Pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 10,805 | 🐛 216 | 🌐 Python | 📅 2026-08-28 - A GDB plugin that provides a suite of utilities to hack around GDB easily.
 * [Objection](https://github.com/sensepost/objection) ⭐ 9,350 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration.
-* [Angr](https://github.com/angr/angr) ⭐ 9,042 | 🐛 713 | 🌐 Python | 📅 2026-08-28 - platform-agnostic binary analysis framework.
+* [Angr](https://github.com/angr/angr) ⭐ 9,042 | 🐛 712 | 🌐 Python | 📅 2026-08-29 - platform-agnostic binary analysis framework.
 * [GEF](https://github.com/hugsy/gef) ⭐ 8,327 | 🐛 14 | 🌐 Python | 📅 2026-08-20 - GDB plugin.
 * [Androguard](https://github.com/androguard/androguard) ⭐ 6,214 | 🐛 45 | 🌐 Python | 📅 2026-08-13 - Reverse engineer Android applications.
 * [PEDA](https://github.com/longld/peda) ⭐ 6,147 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - GDB plugin (only python2.7).
@@ -279,7 +279,7 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-* [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,293 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Automatic SQL injection and database takeover tool.
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,294 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Automatic SQL injection and database takeover tool.
   `pip install sqlmap`
 * [Commix](https://github.com/commixproject/commix) ⭐ 5,828 | 🐛 4 | 🌐 Python | 📅 2026-08-25 - Automated All-in-One OS Command Injection and Exploitation Tool.
 * [W3af](https://github.com/andresriancho/w3af) ⭐ 4,899 | 🐛 2,031 | 🌐 Python | 📅 2023-02-22 -  Web Application Attack and Audit Framework.
@@ -317,7 +317,7 @@ Check solve section for steganography.
 
 *Collections of installer scripts, useful tools*
 
-* [CTF Tools](https://github.com/zardus/ctf-tools) ⭐ 9,502 | 🐛 12 | 🌐 Nix | 📅 2026-08-12 - Collection of setup scripts to install various security research tools.
+* [CTF Tools](https://github.com/zardus/ctf-tools) ⭐ 9,503 | 🐛 12 | 🌐 Nix | 📅 2026-08-12 - Collection of setup scripts to install various security research tools.
 * [LazyKali](https://github.com/jlevitsk/lazykali) ⭐ 50 | 🐛 4 | 🌐 Shell | 📅 2016-09-04 - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
 ## Tutorials
