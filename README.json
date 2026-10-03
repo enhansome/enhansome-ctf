@@ -391,7 +391,7 @@
             {
               "node_type": "item",
               "title": "Metasploit JavaScript Obfuscator",
-              "description": null,
+              "description": "rapid7/metasploit-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,10 +401,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T13:19:47Z",
-                "open_issues": 609,
+                "open_issues": 611,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39077,
+                "stars": 39076,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -414,7 +414,7 @@
             {
               "node_type": "item",
               "title": "Uglify",
-              "description": null,
+              "description": "mishoo/UglifyJS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -461,7 +461,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20051,
+                "stars": 20052,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -695,7 +695,7 @@
                 "open_issues": 518,
                 "owner": "openwall",
                 "repo": "john",
-                "stars": 13708,
+                "stars": 13709,
                 "topics": [
                   "assembler",
                   "c",
@@ -831,7 +831,7 @@
                 "open_issues": 15,
                 "owner": "JonathanSalwan",
                 "repo": "ROPgadget",
-                "stars": 4484,
+                "stars": 4485,
                 "topics": [
                   "binary-exploitation",
                   "reverse-engineering",
@@ -1150,7 +1150,7 @@
                 "open_issues": 415,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 26057,
+                "stars": 26059,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1209,7 +1209,7 @@
                 "open_issues": 455,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50713,
+                "stars": 50718,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1232,10 +1232,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:13:48Z",
-                "open_issues": 795,
+                "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24911,
+                "stars": 24912,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1267,7 +1267,7 @@
                 "open_issues": 98,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14391,
+                "stars": 14390,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1284,11 +1284,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:07:14Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-03T03:52:05Z",
+                "open_issues": 51,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12742,
+                "stars": 12744,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1349,7 +1349,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9418,
+                "stars": 9419,
                 "topics": [
                   "android",
                   "framework",
@@ -1375,8 +1375,8 @@
                 "id": 40328394,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T20:36:16Z",
-                "open_issues": 743,
+                "last_commit": "2026-10-03T04:03:07Z",
+                "open_issues": 745,
                 "owner": "angr",
                 "repo": "angr",
                 "stars": 9123,
@@ -1404,7 +1404,7 @@
                 "open_issues": 15,
                 "owner": "hugsy",
                 "repo": "gef",
-                "stars": 8382,
+                "stars": 8384,
                 "topics": [
                   "binary-ninja",
                   "ctf",
@@ -1958,7 +1958,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38583,
+                "stars": 38587,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -2560,7 +2560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:19:58.770Z",
+    "last_updated": "2026-10-03T04:37:52.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of CTF frameworks, libraries, resources and softwares",
@@ -2572,7 +2572,7 @@
       "open_issues": 70,
       "owner": "apsdehal",
       "repo": "awesome-ctf",
-      "stars": 11879,
+      "stars": 11881,
       "topics": [
         "awesome",
         "ctf",
