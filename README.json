@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "iagox86",
                 "repo": "dnscat2",
-                "stars": 3988,
+                "stars": 3990,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -233,8 +233,8 @@
                 "id": 218938061,
                 "language": "PHP",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-14T21:23:03Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-15T08:42:22Z",
+                "open_issues": 21,
                 "owner": "echoCTF",
                 "repo": "echoCTF.RED",
                 "stars": 150,
@@ -401,10 +401,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-13T17:51:05Z",
-                "open_issues": 610,
+                "open_issues": 613,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39577,
+                "stars": 39581,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -461,7 +461,7 @@
                 "open_issues": 47,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20290,
+                "stars": 20295,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -500,10 +500,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2023-09-15T16:01:47Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "tomac",
                 "repo": "yersinia",
-                "stars": 879,
+                "stars": 880,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -695,7 +695,7 @@
                 "open_issues": 527,
                 "owner": "openwall",
                 "repo": "john",
-                "stars": 13925,
+                "stars": 13933,
                 "topics": [
                   "assembler",
                   "c",
@@ -733,7 +733,7 @@
                 "open_issues": 41,
                 "owner": "lanjelot",
                 "repo": "patator",
-                "stars": 3946,
+                "stars": 3947,
                 "topics": [
                   "brute-force",
                   "pentest"
@@ -790,7 +790,7 @@
                 "open_issues": 121,
                 "owner": "Gallopsled",
                 "repo": "pwntools",
-                "stars": 13861,
+                "stars": 13865,
                 "topics": [
                   "assembly",
                   "bsd",
@@ -831,7 +831,7 @@
                 "open_issues": 15,
                 "owner": "JonathanSalwan",
                 "repo": "ROPgadget",
-                "stars": 4519,
+                "stars": 4520,
                 "topics": [
                   "binary-exploitation",
                   "reverse-engineering",
@@ -855,7 +855,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2022-07-02T21:00:16Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "geohot",
                 "repo": "qira",
                 "stars": 4070,
@@ -931,7 +931,7 @@
                 "open_issues": 1,
                 "owner": "P1kachu",
                 "repo": "v0lt",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "python3",
                   "security",
@@ -1004,12 +1004,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Security sensor for realtime threat detection and protection",
-                "homepage": "https://www.fibratus.io",
+                "homepage": "https://fibratus.io",
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T22:48:22Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
                 "stars": 2568,
@@ -1150,7 +1150,7 @@
                 "open_issues": 414,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 26153,
+                "stars": 26155,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1209,7 +1209,7 @@
                 "open_issues": 467,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 51823,
+                "stars": 51844,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1231,11 +1231,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T12:13:02Z",
-                "open_issues": 799,
+                "last_commit": "2026-11-15T19:55:11Z",
+                "open_issues": 830,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25431,
+                "stars": 25435,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1267,7 +1267,7 @@
                 "open_issues": 104,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14685,
+                "stars": 14690,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1284,11 +1284,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T21:30:35Z",
-                "open_issues": 54,
+                "last_commit": "2026-11-15T21:32:35Z",
+                "open_issues": 59,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12932,
+                "stars": 12937,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1306,10 +1306,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-11T19:32:35Z",
-                "open_issues": 225,
+                "open_issues": 229,
                 "owner": "pwndbg",
                 "repo": "pwndbg",
-                "stars": 11204,
+                "stars": 11210,
                 "topics": [
                   "binary-ninja",
                   "capture-the-flag",
@@ -1349,7 +1349,7 @@
                 "open_issues": 56,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9510,
+                "stars": 9511,
                 "topics": [
                   "android",
                   "framework",
@@ -1376,10 +1376,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-14T10:11:41Z",
-                "open_issues": 810,
+                "open_issues": 819,
                 "owner": "angr",
                 "repo": "angr",
-                "stars": 9379,
+                "stars": 9383,
                 "topics": [
                   "analysis",
                   "angr",
@@ -1400,11 +1400,11 @@
                 "id": 32955140,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-12T17:07:03Z",
+                "last_commit": "2026-11-15T18:22:35Z",
                 "open_issues": 17,
                 "owner": "hugsy",
                 "repo": "gef",
-                "stars": 8439,
+                "stars": 8442,
                 "topics": [
                   "binary-ninja",
                   "ctf",
@@ -1445,7 +1445,7 @@
                 "open_issues": 5,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6434,
+                "stars": 6436,
                 "topics": [
                   "android",
                   "dalvik",
@@ -1473,7 +1473,7 @@
                 "open_issues": 76,
                 "owner": "longld",
                 "repo": "peda",
-                "stars": 6171,
+                "stars": 6173,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1494,7 +1494,7 @@
                 "open_issues": 46,
                 "owner": "JonathanSalwan",
                 "repo": "Triton",
-                "stars": 4369,
+                "stars": 4371,
                 "topics": [
                   "binary-analysis",
                   "binary-translation",
@@ -1846,7 +1846,7 @@
                 "open_issues": 13,
                 "owner": "Y-Vladimir",
                 "repo": "SmartDeblur",
-                "stars": 2409,
+                "stars": 2410,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 6,
                 "owner": "zed-0xff",
                 "repo": "zsteg",
-                "stars": 1634,
+                "stars": 1635,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:18.849Z"
@@ -1888,7 +1888,7 @@
                 "open_issues": 0,
                 "owner": "Paradoxis",
                 "repo": "StegCracker",
-                "stars": 606,
+                "stars": 608,
                 "topics": [
                   "brute-force",
                   "ctf",
@@ -1958,7 +1958,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38954,
+                "stars": 38958,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1991,11 +1991,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T06:04:43Z",
+                "last_commit": "2026-11-15T08:07:16Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5906,
+                "stars": 5907,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -2101,10 +2101,10 @@
                 "language": "PowerShell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T14:43:37Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "mandiant",
                 "repo": "flare-vm",
-                "stars": 9325,
+                "stars": 9327,
                 "topics": [
                   "flare",
                   "malware-analysis",
@@ -2258,7 +2258,7 @@
                 "open_issues": 6,
                 "owner": "juice-shop",
                 "repo": "juice-shop-ctf",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "24pullrequests",
                   "application-security",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:31:03.440Z",
+    "last_updated": "2026-11-15T21:50:36.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of CTF frameworks, libraries, resources and softwares",
@@ -2551,7 +2551,7 @@
       "open_issues": 73,
       "owner": "apsdehal",
       "repo": "awesome-ctf",
-      "stars": 11998,
+      "stars": 11997,
       "topics": [
         "awesome",
         "ctf",
