@@ -4,7 +4,7 @@ A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_f
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/apsdehal/ctf-tools/blob/master/CONTRIBUTING.md) ⭐ 12,010 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22 first.
+Please take a quick look at the [contribution guidelines](https://github.com/apsdehal/ctf-tools/blob/master/CONTRIBUTING.md) ⭐ 12,012 | 🐛 75 | 🌐 JavaScript | 📅 2024-07-22 first.
 
 #### *If you know a tool that isn't present here, feel free to open a pull request.*
 
@@ -62,12 +62,12 @@ It takes time to build up collection of tools used in CTF and remember them all.
 
 * [CTFd](https://github.com/isislab/CTFd) ⭐ 6,920 | 🐛 436 | 🌐 Python | 📅 2026-11-20 - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
 * [FBCTF](https://github.com/facebook/fbctf) ⚠️ Archived - Platform to host Capture the Flag competitions from Facebook.
-* [SecGen](https://github.com/cliffe/SecGen) ⭐ 2,803 | 🐛 33 | 🌐 Python | 📅 2026-11-20 - Security Scenario Generator. Creates randomly vulnerable virtual machines.
+* [SecGen](https://github.com/cliffe/SecGen) ⭐ 2,803 | 🐛 33 | 🌐 Python | 📅 2026-11-21 - Security Scenario Generator. Creates randomly vulnerable virtual machines.
 * [RootTheBox](https://github.com/moloch--/RootTheBox) ⭐ 1,141 | 🐛 62 | 🌐 Python | 📅 2026-09-03 - A Game of Hackers (CTF Scoreboard & Game Manager).
 * [Mellivora](https://github.com/Nakiami/mellivora) ⭐ 451 | 🐛 29 | 🌐 PHP | 📅 2023-12-21 - A CTF engine written in PHP.
 * [PicoCTF](https://github.com/picoCTF/picoCTF) ⚠️ Archived - The platform used to run picoCTF. A great framework to host any CTF.
-* [Haaukins](https://github.com/aau-network-security/haaukins) ⭐ 198 | 🐛 20 | 🌐 Go | 📅 2026-10-20- A Highly Accessible and Automated Virtualization Platform for Security Education.
-* [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) ⭐ 150 | 🐛 24 | 🌐 PHP | 📅 2026-11-20 - Develop, deploy and maintain your own CTF infrastructure.
+* [Haaukins](https://github.com/aau-network-security/haaukins) ⭐ 197 | 🐛 20 | 🌐 Go | 📅 2026-10-20- A Highly Accessible and Automated Virtualization Platform for Security Education.
+* [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) ⭐ 150 | 🐛 24 | 🌐 PHP | 📅 2026-11-21 - Develop, deploy and maintain your own CTF infrastructure.
 * [NightShade](https://github.com/UnrealAkama/NightShade) ⭐ 127 | 🐛 7 | 🌐 JavaScript | 📅 2017-05-28 - A simple security CTF framework.
 * [PyChallFactory](https://github.com/pdautry/py_chall_factory) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2025-08-19 - Small framework to create/manage/package jeopardy CTF challenges.
 * [OpenCTF](https://github.com/easyctf/openctf) ⭐ 85 | 🐛 11 | 🌐 Python | 📅 2023-02-16 - CTF in a box. Minimal setup required.
@@ -87,7 +87,7 @@ Check solve section for steganography.
 
 *JavaScript Obfustcators*
 
-* [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit) ⭐ 39,631 | 🐛 607 | 🌐 Ruby | 📅 2026-11-20
+* [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit) ⭐ 39,637 | 🐛 607 | 🌐 Ruby | 📅 2026-11-20
 * [Uglify](https://github.com/mishoo/UglifyJS) ⭐ 13,365 | 🐛 48 | 🌐 JavaScript | 📅 2024-11-22
 
 # Solve
@@ -98,14 +98,14 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
-* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,322 | 🐛 42 | 🌐 Go | 📅 2026-11-20 - Framework to perform MITM (Man in the Middle) attacks.
+* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,328 | 🐛 38 | 🌐 Go | 📅 2026-11-21 - Framework to perform MITM (Man in the Middle) attacks.
 * [Yersinia](https://github.com/tomac/yersinia) ⭐ 882 | 🐛 30 | 🌐 C | 📅 2023-09-15 - Attack various protocols on layer 2.
 
 ## Crypto
 
 *Tools used for solving Crypto challenges*
 
-* [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) ⭐ 7,222 | 🐛 6 | 🌐 Python | 📅 2026-11-19 - A tool for recovering RSA private key with various attack.
+* [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) ⭐ 7,222 | 🐛 7 | 🌐 Python | 📅 2026-11-19 - A tool for recovering RSA private key with various attack.
 * [RSATool](https://github.com/ius/rsatool) ⭐ 1,684 | 🐛 2 | 🌐 Python | 📅 2026-07-20 - Generate private key with knowledge of p and q.
 * [XORTool](https://github.com/hellman/xortool) ⭐ 1,487 | 🐛 3 | 🌐 Python | 📅 2025-05-21 - A tool to analyze multi-byte xor cipher.
 * [Hash Extender](https://github.com/iagox86/hash_extender) ⭐ 1,214 | 🐛 11 | 🌐 C | 📅 2025-01-27 - A utility tool for performing hash length extension attacks.
@@ -119,8 +119,8 @@ Check solve section for steganography.
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
-* [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) ⭐ 13,958 | 🐛 526 | 🌐 C | 📅 2026-11-16 - Community enhanced version of John the Ripper.
-* [Patator](https://github.com/lanjelot/patator) ⭐ 3,951 | 🐛 41 | 🌐 Python | 📅 2026-11-14 - Patator is a multi-purpose brute-forcer, with a modular design.
+* [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) ⭐ 13,958 | 🐛 527 | 🌐 C | 📅 2026-11-16 - Community enhanced version of John the Ripper.
+* [Patator](https://github.com/lanjelot/patator) ⭐ 3,952 | 🐛 41 | 🌐 Python | 📅 2026-11-14 - Patator is a multi-purpose brute-forcer, with a modular design.
 * [Nozzlr](https://github.com/intrd/nozzlr) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2023-01-11 - Nozzlr is a bruteforce framework, trully modular and script-friendly.
 * [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
 * [Hydra](https://tools.kali.org/password-attacks/hydra) - A parallelized login cracker which supports numerous protocols to attack
@@ -132,10 +132,10 @@ Check solve section for steganography.
 
 *Tools used for solving Exploits challenges*
 
-* [Pwntools](https://github.com/Gallopsled/pwntools) ⭐ 13,876 | 🐛 119 | 🌐 Python | 📅 2026-11-20 - CTF Framework for writing exploits.
+* [Pwntools](https://github.com/Gallopsled/pwntools) ⭐ 13,881 | 🐛 119 | 🌐 Python | 📅 2026-11-20 - CTF Framework for writing exploits.
 * [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) ⭐ 4,522 | 🐛 15 | 🌐 Python | 📅 2026-06-24 - Framework for ROP exploitation.
 * [Qira](https://github.com/BinaryAnalysisPlatform/qira) ⭐ 4,070 | 🐛 71 | 🌐 C | 📅 2022-07-02 - QEMU Interactive Runtime Analyser.
-* [one\_gadget](https://github.com/david942j/one_gadget) ⭐ 2,368 | 🐛 1 | 🌐 Ruby | 📅 2026-11-20 -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call.
+* [one\_gadget](https://github.com/david942j/one_gadget) ⭐ 2,366 | 🐛 1 | 🌐 Ruby | 📅 2026-11-20 -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call.
   * `gem install one_gadget`
 * [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) ⭐ 502 | 🐛 1 | 🌐 C++ | 📅 2013-01-07 - Inject dlls in processes.
 * [V0lt](https://github.com/P1kachu/v0lt) ⚠️ Archived - Security CTF Toolkit.
@@ -152,7 +152,7 @@ Check solve section for steganography.
 * [DVCS Ripper](https://github.com/kost/dvcs-ripper) ⭐ 1,789 | 🐛 11 | 🌐 Perl | 📅 2024-07-19 - Rips web accessible (distributed) version control systems.
 * [USBRip](https://github.com/snovvcrash/usbrip) ⚠️ Archived - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
 * [Creddump](https://github.com/moyix/creddump) ⭐ 290 | 🐛 6 | 🌐 Python | 📅 2019-05-08 - Dump windows credentials.
-* [Shellbags](https://github.com/williballenthin/shellbags) ⭐ 159 | 🐛 3 | 🌐 Python | 📅 2023-01-31 - Investigate NT\_USER.dat files.
+* [Shellbags](https://github.com/williballenthin/shellbags) ⭐ 160 | 🐛 3 | 🌐 Python | 📅 2023-01-31 - Investigate NT\_USER.dat files.
 * [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys.
   * `apt-get install aircrack-ng`
 * [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever).
@@ -183,7 +183,7 @@ Check solve section for steganography.
 
 *Tools used for solving Networking challenges*
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,175 | 🐛 415 | 🌐 C | 📅 2026-10-05 - Mass IP port scanner, TCP port scanner.
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,178 | 🐛 415 | 🌐 C | 📅 2026-10-05 - Mass IP port scanner, TCP port scanner.
 * [Nipe](https://github.com/GouveaHeitor/nipe) ⭐ 2,413 | 🐛 14 | 🌐 Perl | 📅 2026-09-13 - Nipe is a script to make Tor Network your default gateway.
 * [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities).
 * [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
@@ -196,22 +196,22 @@ Check solve section for steganography.
 
 *Tools used for solving Reversing challenges*
 
-* [Jadx](https://github.com/skylot/jadx) ⭐ 51,916 | 🐛 465 | 🌐 Java | 📅 2026-11-20 - Decompile Android files.
-* [radare2](https://github.com/radare/radare2) ⭐ 25,474 | 🐛 821 | 🌐 C | 📅 2026-11-20 - A portable reversing framework.
-* [BinWalk](https://github.com/devttys0/binwalk) ⭐ 14,728 | 🐛 103 | 🌐 Rust | 📅 2026-08-11 - Analyze, reverse engineer, and extract firmware images.
-* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,967 | 🐛 48 | 🌐 C++ | 📅 2026-11-20 - A theorem prover from Microsoft Research.
-* [Pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 11,234 | 🐛 220 | 🌐 Python | 📅 2026-11-19 - A GDB plugin that provides a suite of utilities to hack around GDB easily.
-* [Objection](https://github.com/sensepost/objection) ⭐ 9,527 | 🐛 57 | 🌐 Python | 📅 2026-10-27 - Runtime Mobile Exploration.
-* [Angr](https://github.com/angr/angr) ⭐ 9,399 | 🐛 817 | 🌐 Python | 📅 2026-11-20 - platform-agnostic binary analysis framework.
-* [GEF](https://github.com/hugsy/gef) ⭐ 8,445 | 🐛 15 | 🌐 Python | 📅 2026-11-16 - GDB plugin.
-* [Androguard](https://github.com/androguard/androguard) ⭐ 6,448 | 🐛 5 | 🌐 Python | 📅 2026-10-25 - Reverse engineer Android applications.
+* [Jadx](https://github.com/skylot/jadx) ⭐ 51,928 | 🐛 466 | 🌐 Java | 📅 2026-11-20 - Decompile Android files.
+* [radare2](https://github.com/radare/radare2) ⭐ 25,478 | 🐛 822 | 🌐 C | 📅 2026-11-21 - A portable reversing framework.
+* [BinWalk](https://github.com/devttys0/binwalk) ⭐ 14,730 | 🐛 103 | 🌐 Rust | 📅 2026-08-11 - Analyze, reverse engineer, and extract firmware images.
+* [Z3](https://github.com/Z3Prover/z3) ⭐ 12,975 | 🐛 47 | 🌐 C++ | 📅 2026-11-21 - A theorem prover from Microsoft Research.
+* [Pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 11,238 | 🐛 220 | 🌐 Python | 📅 2026-11-19 - A GDB plugin that provides a suite of utilities to hack around GDB easily.
+* [Objection](https://github.com/sensepost/objection) ⭐ 9,530 | 🐛 58 | 🌐 Python | 📅 2026-10-27 - Runtime Mobile Exploration.
+* [Angr](https://github.com/angr/angr) ⭐ 9,404 | 🐛 820 | 🌐 Python | 📅 2026-11-20 - platform-agnostic binary analysis framework.
+* [GEF](https://github.com/hugsy/gef) ⭐ 8,444 | 🐛 15 | 🌐 Python | 📅 2026-11-21 - GDB plugin.
+* [Androguard](https://github.com/androguard/androguard) ⭐ 6,450 | 🐛 5 | 🌐 Python | 📅 2026-10-25 - Reverse engineer Android applications.
 * [PEDA](https://github.com/longld/peda) ⭐ 6,171 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - GDB plugin (only python2.7).
 * [Triton](https://github.com/JonathanSalwan/Triton/) ⭐ 4,378 | 🐛 47 | 🌐 C++ | 📅 2026-11-11 - Dynamic Binary Analysis (DBA) framework.
-* [PINCE](https://github.com/korcankaraokcu/PINCE) ⭐ 3,151 | 🐛 6 | 🌐 Python | 📅 2026-09-18 - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
+* [PINCE](https://github.com/korcankaraokcu/PINCE) ⭐ 3,153 | 🐛 6 | 🌐 Python | 📅 2026-09-18 - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
 * [Plasma](https://github.com/joelpx/plasma) ⭐ 3,068 | 🐛 15 | 🌐 Python | 📅 2021-08-31 - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 * [Krakatau](https://github.com/Storyyeller/Krakatau) ⭐ 2,265 | 🐛 26 | 🌐 Rust | 📅 2026-10-29 - Java decompiler and disassembler.
 * [Barf](https://github.com/programa-stic/barf-project) ⭐ 1,455 | 🐛 17 | 🌐 Python | 📅 2019-11-24 - Binary Analysis and Reverse engineering Framework.
-* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,364 | 🐛 32 | 🌐 Rust | 📅 2026-09-28 - cwe\_checker finds vulnerable patterns in binary executables.
+* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,363 | 🐛 32 | 🌐 Rust | 📅 2026-09-28 - cwe\_checker finds vulnerable patterns in binary executables.
 * [demovfuscator](https://github.com/kirschju/demovfuscator) ⭐ 767 | 🐛 3 | 🌐 C++ | 📅 2025-05-04 - A work-in-progress deobfuscator for movfuscated binaries.
 * [Apk2Gold](https://github.com/lxdvs/apk2gold) ⭐ 704 | 🐛 18 | 🌐 Shell | 📅 2024-03-05 - Yet another Android decompiler.
 * [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) ⭐ 506 | 🐛 8 | 🌐 Python | 📅 2020-04-12 - A tool which uses intel pin for Side Channel Analysis.
@@ -254,7 +254,7 @@ Check solve section for steganography.
 *Tools used for solving Steganography challenges*
 
 * [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) ⭐ 2,409 | 🐛 13 | 🌐 C++ | 📅 2019-04-02 - Used to deblur and fix defocused images.
-* [Zsteg](https://github.com/zed-0xff/zsteg/) ⭐ 1,635 | 🐛 6 | 🌐 Ruby | 📅 2026-01-28 - PNG/BMP analysis.
+* [Zsteg](https://github.com/zed-0xff/zsteg/) ⭐ 1,634 | 🐛 6 | 🌐 Ruby | 📅 2026-01-28 - PNG/BMP analysis.
 * [StegCracker](https://github.com/Paradoxis/StegCracker) ⚠️ Archived - Steganography brute-force utility to uncover hidden data inside files.
 * [stegextract](https://github.com/evyatarmeged/stegextract) ⭐ 135 | 🐛 2 | 🌐 Shell | 📅 2023-05-21 - Detect hidden files and text in images.
 * [AperiSolve](https://aperisolve.fr/) - Aperi'Solve is a platform which performs layer analysis on image (open-source).
@@ -279,9 +279,9 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-* [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,000 | 🐛 14 | 🌐 Python | 📅 2026-11-19 - Automatic SQL injection and database takeover tool.
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,009 | 🐛 15 | 🌐 Python | 📅 2026-11-19 - Automatic SQL injection and database takeover tool.
   `pip install sqlmap`
-* [Commix](https://github.com/commixproject/commix) ⭐ 5,912 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - Automated All-in-One OS Command Injection and Exploitation Tool.
+* [Commix](https://github.com/commixproject/commix) ⭐ 5,914 | 🐛 0 | 🌐 Python | 📅 2026-11-21 - Automated All-in-One OS Command Injection and Exploitation Tool.
 * [W3af](https://github.com/andresriancho/w3af) ⭐ 4,916 | 🐛 2,033 | 🌐 Python | 📅 2023-02-22 -  Web Application Attack and Audit Framework.
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 4,078 | 🐛 15 | 🌐 Python | 📅 2026-04-21 - A high performance offensive security tool for reconnaissance and vulnerability scanning.
 * [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
@@ -310,14 +310,14 @@ Check solve section for steganography.
 
 *Malware analysts and reverse-engineering*
 
-* [Flare VM](https://github.com/fireeye/flare-vm/) ⭐ 9,342 | 🐛 29 | 🌐 PowerShell | 📅 2026-10-07 - Based on Windows.
+* [Flare VM](https://github.com/fireeye/flare-vm/) ⭐ 9,343 | 🐛 29 | 🌐 PowerShell | 📅 2026-10-07 - Based on Windows.
 * [REMnux](https://remnux.org/) - Based on Debian.
 
 ## Starter Packs
 
 *Collections of installer scripts, useful tools*
 
-* [CTF Tools](https://github.com/zardus/ctf-tools) ⭐ 9,580 | 🐛 6 | 🌐 Nix | 📅 2026-11-14 - Collection of setup scripts to install various security research tools.
+* [CTF Tools](https://github.com/zardus/ctf-tools) ⭐ 9,582 | 🐛 6 | 🌐 Nix | 📅 2026-11-14 - Collection of setup scripts to install various security research tools.
 * [LazyKali](https://github.com/jlevitsk/lazykali) ⭐ 51 | 🐛 4 | 🌐 Shell | 📅 2016-09-04 - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
 ## Tutorials
@@ -371,7 +371,7 @@ Check solve section for steganography.
 
 *Self-hosted CTFs*
 
-* [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) ⭐ 484 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-16 - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
+* [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) ⭐ 485 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-16 - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 * [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
 
 ## Websites
@@ -413,4 +413,4 @@ CC0 :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
